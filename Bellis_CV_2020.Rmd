@@ -52,7 +52,15 @@ urlcolor: blue
 Genetic basis of genotype-phenotype-environment interactions; machine learning in the life sciences to improve food security, human well-being, and ecosystem health; evolutionary ecology and genomics of parasites and mutualists    
 
 # PUBLICATIONS  
-R.M. Gutaker, S.C. Groen, **E.S. Bellis**, J.Y. Choi, I.S. Pires, R.K. Bocinsky, E. Slayton, O. Wilkins, C.C. Castillo, S. Negrao, M.M. Oliveira, D.Q. Fuller, J.A. d’Alpoim Guedes, J.R. Lasky, and M.D. Purugganan. *(in press).* Genomic history and ecology of the geographic spread of rice. *Nature Plants.*  
+R.D. Lucardi, **E.S. Bellis**, C.E. Cunard, J.K. Gravesande, S.C. Hughes, L.E. Whitehurst, S.J. Worthy, K.S. Burgess, T.D. Marsico. (Accepted). Seeds attached to refrigerated shipping containers represent a substantial risk of nonnative plant species introduction and establishment. *Scientific Reports.*
+
+L. Lopez, K. Turner, **E.S. Bellis**, & J.R. Lasky. (Accepted). Genomics of Natural History Collections for Understanding Evolution in the Wild. *Molecular Ecology Resources.*
+
+J.S. Shaver, **E.S. Bellis**, C. Iwaki, J. Qualls, J. Randolph, & J. Smith. (Accepted). Massard Prairie Restoration and Soil Microbiome Succession. *Journal of the Arkansas Academy of Science.*
+
+M. Staton, C. Addo-Quaye, [and 29 others including **E.S. Bellis**]. (2020). A reference genome assembly and adaptive trait analysis of Castanea mollissima 'Vanuxem', a source of resistance to chestnut blight in restoration breeding. *Tree Genetics & Genomes.* 
+
+R.M. Gutaker, S.C. Groen, **E.S. Bellis**, J.Y. Choi, I.S. Pires, R.K. Bocinsky, E. Slayton, O. Wilkins, C.C. Castillo, S. Negrao, M.M. Oliveira, D.Q. Fuller, J.A. d’Alpoim Guedes, J.R. Lasky, and M.D. Purugganan (2020). Genomic history and ecology of the geographic spread of rice. *Nature Plants* 6: 492-502.  
 
 **E.S. Bellis**, E.A. Kelly, C.M. Lorts, H. Gao, V.L. Deleo, G. Rouhan, A. Budden, G.B. Bhaskara, Z. Hu, R. Muscarella, M.P. Timko, B. Nebie, S.M. Runo, N.D. Chilcoat, T.E. Juenger, G.P. Morris, C.W. dePamphilis, and J.R. Lasky (2020). Genomics of sorghum local adaptation to a parasitic plant. *PNAS* 117: 4243-4251.  
 
@@ -127,7 +135,7 @@ BI211: Principles of Biology Lab (Teaching Assistant)\hfill{Fall 2013}
 
 # STUDENT MENTORING 
 ## Arkansas State University  
-E. Soriano Chavez, Undergraduate Research Mentor \hfill{2020--Present}
+E. Soriano Chavez, Undergraduate Research Mentor \hfill{2020--Present}  
 J. Stubblefield, Graduate Committee Member \hfill{2019--Present}  
 S. Rutledge, Undergraduate Research Mentor \hfill{2020 (Jan. - Aug.)}  
 
@@ -143,9 +151,10 @@ B. VerWey, Undergraduate Research Mentor \hfill{2013}
 J. Seng, Undergraduate Research Mentor \hfill{2011--2014}  
 
 # PROFESSIONAL SERVICE (since 2018) 
-## National   
+## National/International   
+- Review Editor for *Frontiers in Plant Science*  
 - Panel Reviewer for the National Science Foundation (2020)  
-- Manuscript Reviewer for the *American Society of Agricultural and Biological Engineers* (2020), *Agronomy* (2020), *The Plant Journal* (2019, 2020), *Plant Physiology* (2020), *Marine Biology* (2019), and *Molecular Ecology Resources* (2020).  
+- Manuscript Reviewer for *Agronomy* (2020), *American Society of Agricultural and Biological Engineers* (2020), *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2020), *Plant Physiology* (2020), *The Plant Journal* (2019, 2020),*Marine Biology* (2019), and *Molecular Ecology Resources* (2020).  
 - Guest Editor for *Molecular Ecology Resources* special issue (to be published September 2020).  
 
 ## Regional 
