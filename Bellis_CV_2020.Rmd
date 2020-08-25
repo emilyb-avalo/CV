@@ -1,0 +1,168 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: /Users/emilywork/Desktop/CVs/svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: "Emily S. Bellis (n&eacute;e Weiss)"
+
+jobtitle: "Assistant Professor of Bioinformatics"
+department: "Arkansas Biosciences Institute & Department of Computer Science"
+address: "Arkansas State University, Jonesboro, AR"
+fontawesome: yes
+email: ebellis@astate.edu
+github: em-bellis
+phone: "870 972 3979"
+web: em-bellis.github.io
+#updated: no 
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION
+
+*Oregon State University, Corvallis, OR*, Ph.D. Integrative Biology \hfill{2017}
+
+*Texas A&M University, College Station, TX*, B.S. Genetics & Biochemistry \hfill 2010
+
+# APPOINTMENTS
+
+*Arkansas State University, Jonesboro, AR:*
+
+ > Assistant Professor of Bioinformatics \hfill{01/2020--Present}   
+ > Research Assistant Professor of Bioinformatics \hfill{10/2019--01/2020}  
+ 
+*The Pennsylvania State University, State College, PA:*  
+
+ > NSF Nat'l Plant Genome Postdoctoral Research Fellow \hfill{01/2018--09/2019}  
+
+*Reed College, Portland, OR:*  
+
+ > Postdoctoral Research Associate in Genomics \hfill{07/2017--12/2017}    
+ 
+# RESEARCH INTERESTS  
+Genetic basis of genotype-phenotype-environment interactions; machine learning in the life sciences to improve food security, human well-being, and ecosystem health; evolutionary ecology and genomics of parasites and mutualists    
+
+# PUBLICATIONS  
+R.M. Gutaker, S.C. Groen, **E.S. Bellis**, J.Y. Choi, I.S. Pires, R.K. Bocinsky, E. Slayton, O. Wilkins, C.C. Castillo, S. Negrao, M.M. Oliveira, D.Q. Fuller, J.A. d’Alpoim Guedes, J.R. Lasky, and M.D. Purugganan. *(in press).* Genomic history and ecology of the geographic spread of rice. *Nature Plants.*  
+
+**E.S. Bellis**, E.A. Kelly, C.M. Lorts, H. Gao, V.L. Deleo, G. Rouhan, A. Budden, G.B. Bhaskara, Z. Hu, R. Muscarella, M.P. Timko, B. Nebie, S.M. Runo, N.D. Chilcoat, T.E. Juenger, G.P. Morris, C.W. dePamphilis, and J.R. Lasky (2020). Genomics of sorghum local adaptation to a parasitic plant. *PNAS* 117: 4243-4251.  
+
+L. Lopez, **E.S. Bellis**, E. Wafula, S. Hearne, L. Honaas, P. Ralph, N. Unachukwu, C.W. dePamphilis, and J.R. Lasky (2019). Transcriptomics of host-specific interactions in natural populations of the parasitic plant *Striga hermonthica. Weed Science* 67: 397-411.  
+
+**E.S. Bellis**, R.B. Edlund, H.K. Berrios, H.A. Lessios, and D.R. Denver (2018). Molecular signatures of host specificity linked to habitat specialization in a symbiotic sea anemone. *Ecology & Evolution* 8: 5413-5426.
+
+**E.S. Bellis** and D. R. Denver (2017). Natural variation in responses to acute heat and cold stress in a sea anemone model system for coral bleaching. *Biological Bulletin* 233: 168-181. \**Cover article.*  
+
+**E.S. Bellis**, D.K. Howe, and D.R. Denver. Genome-wide polymorphism and signatures of selection in the symbiotic sea anemone *Aiptasia. BMC Genomics* 17: 160.
+
+W.S. Phillips, A.L. Coleman-Hulbert, **E.S. Weiss**, D.K. Howe, S. Ping, R.I. Wernick, S. Estes, and D.R. Denver (2015). Selfish mitochondrial DNA proliferates in small, but not large, experimental populations of *Caenorhabditis briggsae. Genome Biology and Evolution* 7: 2023-2037.
+
+A. Emblem, S. Okkenhaug, **E.S. Weiss**, D.R. Denver, B.O. Karlsen, T. Moum, and S.D. Johansen (2014). Sea anemones possess dynamic mitogenome structures. *Molecular Phylogenetics and Evolution* 75: 184-193.  
+
+# RESEARCH GRANTS  
+## National  
+>US-AID PEER Program Grant "Deploying *Striga* Smart Sorghum: The last mile" ($75,000; PI: S.M. Runo; US-supported partner: Bellis)  \hfill{2019}  
+
+>Coral Reef Alliance Coral Adaptation Challenge Grant ($18,000; role: PI) \hfill{2016}
+
+## Regional   
+>Arkansas INBRE Core Facility Voucher Award ($5,000; role: PI) \hfill{2020}
+
+# FELLOWSHIPS & AWARDS  
+## National  
+>Ecological Society of America NEON Early Career Scholar ($1,500) \hfill{2020}  
+
+>NSF Postdoctoral Research Fellowship in Biology ($207,000) \hfill{2017}   
+
+>Society for Integrative & Comparative Biology Libbie H. Hyman Memorial 
+
+>Scholarship ($1,500; declined) \hfill{2013}   
+
+>NSF Graduate Research Fellowship ($121,000) \hfill{2011}  
+
+>National Merit Scholarship ($2,500) \hfill{2006}  
+
+## Institutional  
+>Oregon State University Paul & Mary Roberts Fellowship for the Study of Evolution ($2,500) \hfill{2017}  
+
+>University of Washington Summer Institute Scholarship ($900) \hfill{2016}  
+
+>Smithsonian Tropical Research Institute Short Term Fellowship ($3,000) \hfill{2014}  
+
+>Oregon State University Provost’s Distinguished Fellowship ($30,000) \hfill{2011}  
+
+>Texas A&M University President’s Endowed Scholarship, National Merit Recognition Award, Director's Excellence Award, and Non-Resident Tuition Waiver ($75,000) \hfill{2006}
+
+# INVITED TALKS  
+University of Memphis Earth Sciences Colloquium Series, Memphis, TN, April 17 (*cancelled due to COVID-19*) \hfill{2020}  
+University of Arkansas Fort Smith STEM Seminar, Fort Smith, AR, Feb. 14  \hfill{2020}  
+The Pennsylvania State University Ecology Seminar, State College, PA , Sep. 13 \hfill{2019}  
+NSF Plant Genome Research Program Awardee Meeting, Washington D.C., Sep. 4-6 \hfill{2019} 
+Society of Herbarium Curators Annual Meeting, Tucson, AZ, Aug. 1 \hfill{2019}  
+University of Arkansas for Medical Sciences Career Day, Little Rock, AR, Oct. 18  \hfill{2019}  
+Workshop on Genomics Tools for *Striga* management, Nairobi, Kenya, June 22-30 \hfill{2018}  
+Reed College Biology Department Seminar Series, Oct. 27 \hfill{2017}  
+Coral Reef Alliance Adaptation Challenge Workshop, San Francisco, CA, April 17-18 \hfill{2017}  
+
+# COURSES TAUGHT 
+## Arkansas State University  
+CS6823: Special Topics: Introduction to Statistical Learning (cross-listed w/ MBS6251) \hfill {Summer 2020}  
+
+## Oregon State University 
+Z362: Invertebrate Biology Lab (Instructor) \hfill{Spring 2017}  
+MCB525: Techniques in Molecular and Cellular Biology (Instructor)\hfill{Fall 2016}  
+BI213: Principles of Biology (Curriculum Development Assistant)\hfill{Winter 2016}  
+BI311: Genetics (Teaching Assistant)\hfill{Spring 2014}  
+BI212: Principles of Biology Lab (Teaching Assistant)\hfill{Winter 2014}   
+BI211: Principles of Biology Lab (Teaching Assistant)\hfill{Fall 2013} 
+
+# STUDENT MENTORING 
+## Arkansas State University  
+E. Soriano Chavez, Undergraduate Research Mentor \hfill{2020--Present}
+J. Stubblefield, Graduate Committee Member \hfill{2019--Present}  
+S. Rutledge, Undergraduate Research Mentor \hfill{2020 (Jan. - Aug.)}  
+
+## The Pennsylvania State University  
+T. Xia, Undergraduate Research Mentor \hfill{2019}  
+C. Yim, Undergraduate Research Mentor \hfill{2018--2019}  
+
+## Oregon State University  
+E. Kramer, Undergraduate Research Mentor \hfill{2016--2017}  
+R. Edlund, Undergraduate Research Mentor \hfill{2014-2016}  
+A. Vercruyssen, Undergraduate Research Mentor \hfill{2013--2014}  
+B. VerWey, Undergraduate Research Mentor \hfill{2013}  
+J. Seng, Undergraduate Research Mentor \hfill{2011--2014}  
+
+# PROFESSIONAL SERVICE (since 2018) 
+## National   
+- Panel Reviewer for the National Science Foundation (2020)  
+- Manuscript Reviewer for the *American Society of Agricultural and Biological Engineers* (2020), *Agronomy* (2020), *The Plant Journal* (2019, 2020), *Plant Physiology* (2020), *Marine Biology* (2019), and *Molecular Ecology Resources* (2020).  
+- Guest Editor for *Molecular Ecology Resources* special issue (to be published September 2020).  
+
+## Regional 
+- Team coach for Arkansas AI-Campus 2020, a hands-on training program to provide skills in machine learning to students and professionals in AR.  
+
+- Member of the Scientific Program Committee for Arkansas Bioinformatic Consortium 2020 Meeting: Artificial Intelligence in Arkansas.   
+
+- Invited speaker for ~1hr session on Individual Development Plans for Graduate Student Professional Development workshop at the annual faculty and student Center for Advanced Surface Engineering (CASE) Retreat in Petit Jean, AR (Jan. 10).  Event attended by ~30 graduate students from five Arkansas institutions. 
+
+## Institutional  
+- Co-organizer of the [A-State R User Group](https://a-state-ruser.readthedocs.io/en/latest/) (2020 -- Present)  
+
+<!-- # PROFESSIONAL DEVELOPMENT   -->
+<!-- ## Research  -->
+<!-- Botany 2019 Workshop: Using Digitized Herbarium Data in Research   -->
+<!-- University of Washington Summer Institute 2016 (Bayesian Statistics for Genetics, MCMC for Genetics) -->
+
+<!-- ## Teaching  -->
+<!-- CIRTL (Center for the Integration of Research, Teaching and Learning) Certification, Associate Level   -->
+<!-- Completed 12 credit hours of graduate level coursework in teaching and learning theory, course design and methods, inclusivity training, and science communication   -->
