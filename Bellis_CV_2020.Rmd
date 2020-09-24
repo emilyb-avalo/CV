@@ -52,13 +52,13 @@ urlcolor: blue
 Genetic basis of genotype-phenotype-environment interactions; machine learning in the life sciences to improve food security, human well-being, and ecosystem health; evolutionary ecology and genomics of parasites and mutualists    
 
 # PUBLICATIONS  
-R.D. Lucardi, **E.S. Bellis**, C.E. Cunard, J.K. Gravesande, S.C. Hughes, L.E. Whitehurst, S.J. Worthy, K.S. Burgess, T.D. Marsico. (Accepted). Seeds attached to refrigerated shipping containers represent a substantial risk of nonnative plant species introduction and establishment. *Scientific Reports.*
+R.D. Lucardi, **E.S. Bellis**, C.E. Cunard, J.K. Gravesande, S.C. Hughes, L.E. Whitehurst, S.J. Worthy, K.S. Burgess, T.D. Marsico. (2020). Seeds attached to refrigerated shipping containers represent a substantial risk of nonnative plant species introduction and establishment. *Scientific Reports* 10: 15017.
 
-L. Lopez, K. Turner, **E.S. Bellis**, & J.R. Lasky. (Accepted). Genomics of Natural History Collections for Understanding Evolution in the Wild. *Molecular Ecology Resources.*
+L. Lopez, K. Turner, **E.S. Bellis**, & J.R. Lasky. (2020). Genomics of Natural History Collections for Understanding Evolution in the Wild. *Molecular Ecology Resources* 20: 1153-1160.
 
 J.S. Shaver, **E.S. Bellis**, C. Iwaki, J. Qualls, J. Randolph, & J. Smith. (Accepted). Massard Prairie Restoration and Soil Microbiome Succession. *Journal of the Arkansas Academy of Science.*
 
-M. Staton, C. Addo-Quaye, [and 29 others including **E.S. Bellis**]. (2020). A reference genome assembly and adaptive trait analysis of Castanea mollissima 'Vanuxem', a source of resistance to chestnut blight in restoration breeding. *Tree Genetics & Genomes.* 
+M. Staton, C. Addo-Quaye, [and 29 others including **E.S. Bellis**]. (2020). A reference genome assembly and adaptive trait analysis of Castanea mollissima 'Vanuxem', a source of resistance to chestnut blight in restoration breeding. *Tree Genetics & Genomes* 16: 57. 
 
 R.M. Gutaker, S.C. Groen, **E.S. Bellis**, J.Y. Choi, I.S. Pires, R.K. Bocinsky, E. Slayton, O. Wilkins, C.C. Castillo, S. Negrao, M.M. Oliveira, D.Q. Fuller, J.A. d’Alpoim Guedes, J.R. Lasky, and M.D. Purugganan (2020). Genomic history and ecology of the geographic spread of rice. *Nature Plants* 6: 492-502.  
 
@@ -83,6 +83,8 @@ A. Emblem, S. Okkenhaug, **E.S. Weiss**, D.R. Denver, B.O. Karlsen, T. Moum, and
 >Coral Reef Alliance Coral Adaptation Challenge Grant ($18,000; role: PI) \hfill{2016}
 
 ## Regional   
+>Arkansas INBRE Collaborative Research Grant ($40,000; role: PI) \hfill{2020}
+
 >Arkansas INBRE Core Facility Voucher Award ($5,000; role: PI) \hfill{2020}
 
 # FELLOWSHIPS & AWARDS  
@@ -111,6 +113,7 @@ A. Emblem, S. Okkenhaug, **E.S. Weiss**, D.R. Denver, B.O. Karlsen, T. Moum, and
 >Texas A&M University President’s Endowed Scholarship, National Merit Recognition Award, Director's Excellence Award, and Non-Resident Tuition Waiver ($75,000) \hfill{2006}
 
 # INVITED TALKS  
+Penn State Center for Parasitic & Carnivorous Plants, remote, Aug. 20  \hfill{2020}
 University of Memphis Earth Sciences Colloquium Series, Memphis, TN, April 17 (*cancelled due to COVID-19*) \hfill{2020}  
 University of Arkansas Fort Smith STEM Seminar, Fort Smith, AR, Feb. 14  \hfill{2020}  
 The Pennsylvania State University Ecology Seminar, State College, PA , Sep. 13 \hfill{2019}  
@@ -134,9 +137,8 @@ BI212: Principles of Biology Lab (Teaching Assistant)\hfill{Winter 2014}
 BI211: Principles of Biology Lab (Teaching Assistant)\hfill{Fall 2013} 
 
 # STUDENT MENTORING 
-## Arkansas State University  
+## Arkansas State University
 E. Soriano Chavez, Undergraduate Research Mentor \hfill{2020--Present}  
-J. Stubblefield, Graduate Committee Member \hfill{2019--Present}  
 S. Rutledge, Undergraduate Research Mentor \hfill{2020 (Jan. - Aug.)}  
 
 ## The Pennsylvania State University  
