@@ -55,6 +55,10 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 
 # PUBLICATIONS
 ## Peer-reviewed
+1. J. Masanga, B. N. Mwangi, W. Kibet, M. Wamalwa, P. Sagero, R. Oduor, M. Ngugi, A. Alakonya, P. Ojola, **E. Bellis**, S. Runo (2021). Physiological and ecological warnings that Dodder pose an exigent threat to farmlands in Eastern Africa. *Plant Physiology*.
+
+1. J. Stubblefield, M. Hervert, J. Causey, J. Qualls, W. Dong, L. Cai, J. Fowler, **E. Bellis**, K. Walker, J.H. Moore, S. Nehring, X. Huang (2020). Cardiac or Infectious? Transfer Learning with Chest X-Rays for ER Patient Classification.  *Scientific Reports* 10: 20900.  
+
 1. R.D. Lucardi, **E.S. Bellis**, C.E. Cunard, J.K. Gravesande, S.C. Hughes, L.E. Whitehurst, S.J. Worthy, K.S. Burgess, T.D. Marsico. (2020). Seeds attached to refrigerated shipping containers represent a substantial risk of nonnative plant species introduction and establishment. *Scientific Reports* 10: 15017.
 
 2. L. Lopez, K. Turner, **E.S. Bellis**, & J.R. Lasky. (2020). Genomics of Natural History Collections for Understanding Evolution in the Wild. *Molecular Ecology Resources* 20: 1153-1160.
@@ -80,15 +84,11 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 12. A. Emblem, S. Okkenhaug, **E.S. Weiss**, D.R. Denver, B.O. Karlsen, T. Moum, and S.D. Johansen (2014). Sea anemones possess dynamic mitogenome structures. *Molecular Phylogenetics and Evolution* 75: 184-193.  
 
 ## Preprints/submitted 
-13. J. Masanga, B. N. Mwangi, W. Kibet, M. Wamalwa, P. Sagero, R. Oduor, M. Ngugi, A. Alakonya, P. Ojola, **E. Bellis**, S. Runo. Physiological and ecological warnings that Dodder pose an exigent threat to farmlands in Eastern Africa. *In review.* doi: https://doi.org/10.1101/2020.10.26.355883
-
-14. E.K.H. Ho\*, **E.S. Bellis,\* ** J. Calkins, J.R. Adrion, L.C. Latta IV, S. Schaack. Engines of change: Transposable element mutation rates are high and vary widely among genotypes and populations of *Daphnia magna. In review*. doi: https://doi.org/10.1101/2020.09.21.307181. \*co-first authors.
+15. E.K.H. Ho\*, **E.S. Bellis,\* ** J. Calkins, J.R. Adrion, L.C. Latta IV, S. Schaack. Engines of change: Transposable element mutation rates are high and vary widely among genotypes and populations of *Daphnia magna. In review*. doi: https://doi.org/10.1101/2020.09.21.307181. \*co-first authors.
 
 15. **E.S. Bellis\* **, C.M. McLaughlin\*, C.W. dePamphilis, & J.R. Lasky. Macroecology of host specialization to a parasitic plant. *In review*. doi: https://10.22541/au.159985357.77273677. \*co-first authors.
 
 16. W. Zhou, **E. Bellis**, J. Stubblefield, J.L. Causey, J.A. Qualls, K. Walker, X. Huang (2019). Minor QTLs mining through the combination of GWAS and machine learning feature selection. doi: https://doi.org/10.1101/702761.
-
-17. J. Stubblefield, M. Hervert, J. Causey, J. Qualls, W. Dong, L. Cai, J. Fowler, **E. Bellis**, K. Walker, J.H. Moore, S. Nehring, X. Huang. Cardiac or Infectious? Transfer Learning with Chest X-Rays for ER Patient Classification.  doi: https://doi.org/10.1101/2020.04.11.20062091
 
 
 # RESEARCH GRANTS  
@@ -98,7 +98,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 >Coral Reef Alliance Coral Adaptation Challenge Grant ($18,000; role: PI) \hfill{2016}
 
 ## Regional   
->Arkansas INBRE Collaborative Research Grant ($40,000; role: PI) \hfill{2020}
+>Arkansas INBRE Collaborative Research Grant ($51,446; role: PI) \hfill{2020}
 
 >Arkansas INBRE Core Facility Voucher Award ($5,000; role: PI) \hfill{2020}
 
@@ -141,7 +141,9 @@ Coral Reef Alliance Adaptation Challenge Workshop, San Francisco, CA, April 17 \
 
 # COURSES TAUGHT 
 ## Arkansas State University  
-CS6823: Special Topics: Introduction to Statistical Learning (cross-listed w/ MBS6251) \hfill {Summer 2020}  
+CS1114: Concepts of Programming \hfill {Spring 2021}  
+CS6823: Special Topics: Introduction to Statistical Learning  
+  (cross-listed w/ MBS6251) \hfill {Summer 2020}  
 
 ## Oregon State University 
 Z362: Invertebrate Biology Lab (Instructor) \hfill{Spring 2017}  
