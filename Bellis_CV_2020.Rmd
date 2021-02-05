@@ -93,14 +93,22 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 
 # RESEARCH GRANTS  
 ## National  
->US-AID PEER Program Grant "Deploying *Striga* Smart Sorghum: The last mile" ($75,000; PI: S.M. Runo; US-supported partner: Bellis)  \hfill{2019}  
+>US-AID PEER Program Grant: Deploying *Striga* Smart Sorghum: The last mile ($75,000; PI: S.M. Runo; US-supported partner: Bellis)  \hfill{2019}  
 
 >Coral Reef Alliance Coral Adaptation Challenge Grant ($18,000; role: PI) \hfill{2016}
 
 ## Regional   
->Arkansas INBRE Collaborative Research Grant ($51,446; role: PI) \hfill{2020}
+>Arkansas INBRE Collaborative Research Grant: "Effect of Soil Microbiome Succession on the Prevalence of Antibiotic Resistance" ($51,446; role: PI) \hfill{2020}
 
 >Arkansas INBRE Core Facility Voucher Award ($5,000; role: PI) \hfill{2020}
+
+## Submitted/Pending
+>NSF EPSCoR RII Track-2: Artificial Intelligence for Plant Systems Science through EPSCoR AI-Campus (submitted; role: co-PI) \hfill{2021}
+
+>NIH R35: Understanding the genotype-phenotype-environment nexus with ensemble learning ($1,378,720; submitted; role: PI) \hfill{2020}
+
+>NSF EPSCoR RII Track-2: Connecting Artificial Intelligence and Plant Biology to Understand Adaptation to Environment ($4,683,896; not funded; role: co-PI) 
+  \hfill{2020}
 
 # FELLOWSHIPS & AWARDS  
 ## National  
@@ -108,9 +116,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 
 >NSF Postdoctoral Research Fellowship in Biology ($207,000) \hfill{2017}   
 
->Society for Integrative & Comparative Biology Libbie H. Hyman Memorial 
-
->Scholarship ($1,500; declined) \hfill{2013}   
+>Society for Integrative & Comparative Biology Libbie H. Hyman Memorial Scholarship ($1,500; declined) \hfill{2013}   
 
 >NSF Graduate Research Fellowship ($121,000) \hfill{2011}  
 
