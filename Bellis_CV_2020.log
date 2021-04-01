@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.21)  25 FEB 2021 14:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.21)  1 APR 2021 08:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -539,28 +539,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 478--480
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 480--487
+Underfull \hbox (badness 10000) in paragraph at lines 480--488
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 516--520
+Underfull \hbox (badness 10000) in paragraph at lines 517--521
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 520--525
+Underfull \hbox (badness 10000) in paragraph at lines 521--526
 
  []
 
 
 AED: lastpage setting LastPage
 [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 529.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 529.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 530.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 530.
 (./Bellis_CV_2020.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 529.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 529.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 530.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 530.
 Package rerunfilecheck Info: File `Bellis_CV_2020.out' has not changed.
 (rerunfilecheck)             Checksum: AE4DFB35C21963292D9C429040560B2E;3514.
  ) 
@@ -583,7 +583,7 @@ onts/type1/public/fpl/fplrij8a.pfb></Users/emilywork/Library/TinyTeX/texmf-dist
 /fonts/type1/urw/palatino/uplb8a.pfb></Users/emilywork/Library/TinyTeX/texmf-di
 st/fonts/type1/urw/palatino/uplr8a.pfb></Users/emilywork/Library/TinyTeX/texmf-
 dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Bellis_CV_2020.pdf (6 pages, 129832 bytes).
+Output written on Bellis_CV_2020.pdf (6 pages, 129854 bytes).
 PDF statistics:
  260 PDF objects out of 1000 (max. 8388607)
  226 compressed objects within 3 object streams
