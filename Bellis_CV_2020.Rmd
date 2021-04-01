@@ -86,7 +86,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 ## Preprints/submitted 
 15. E.K.H. Ho\*, **E.S. Bellis,\* ** J. Calkins, J.R. Adrion, L.C. Latta IV, S. Schaack. Engines of change: Transposable element mutation rates are high and vary widely among genotypes and populations of *Daphnia magna. In review*. doi: https://doi.org/10.1101/2020.09.21.307181. \*co-first authors.
 
-15. **E.S. Bellis\* **, C.M. McLaughlin\*, C.W. dePamphilis, & J.R. Lasky. Macroecology of host specialization to a parasitic plant. *In review*. doi: https://10.22541/au.159985357.77273677. \*co-first authors.
+15. **E.S. Bellis\* **, C.M. McLaughlin\*, C.W. dePamphilis, & J.R. Lasky. The geography of parasite local adaptation to host communities. *In review*. doi: https://10.22541/au.159985357.77273677. \*co-first authors.
 
 16. W. Zhou, **E. Bellis**, J. Stubblefield, J.L. Causey, J.A. Qualls, K. Walker, X. Huang (2019). Minor QTLs mining through the combination of GWAS and machine learning feature selection. doi: https://doi.org/10.1101/702761.
 
@@ -147,7 +147,7 @@ Coral Reef Alliance Adaptation Challenge Workshop, San Francisco, CA, April 17 \
 
 # COURSES TAUGHT 
 ## Arkansas State University  
-CS1114: Concepts of Programming \hfill {Spring 2021}  
+CS1114: Concepts of Programming (including Honors section) \hfill {Spring 2021}  
 CS6823: Special Topics: Introduction to Statistical Learning  
   (cross-listed w/ MBS6251) \hfill {Summer 2020}  
 
@@ -167,7 +167,7 @@ E. Soriano Chavez, Undergraduate Researcher \hfill{May 2020--Present}
 S. Rutledge, Undergraduate Researcher \hfill{Jan.--Aug. 2020}  
 
 ## The Pennsylvania State University  
-T. Xia, Undergraduate Researcher \hfill{2019}  
+T. Xia, Undergraduate Researcher (now pursuing Ph.D. at UC Davis) \hfill{2019}  
 C. Yim, Undergraduate Researcher \hfill{2018--2019}  
 
 ## Oregon State University  
@@ -178,23 +178,25 @@ B. VerWey, Undergraduate Researcher \hfill{2013}
 J. Seng, Undergraduate Researcher \hfill{2011--2014}  
 
 # PROFESSIONAL SERVICE (since 2018) 
-## National/International   
-- Facilitator for Bioinformatics Workshop at Kenyatta University, Kenya (delivered remotely due to COVID-19).  
+## National/International
+- Program committee member for 2021 ACM Conference on Bioinformatics, Computational Biology, and Health Informatics  
+- Facilitator for Bioinformatics Workshop at Kenyatta University, Kenya (delivered remotely due to COVID-19; 2020)  
 - Review Editor for *Frontiers in Plant Science*  (2020 -- Present)  
 - Panel Reviewer for the National Science Foundation (2020)  
-- Manuscript Reviewer for *Agronomy* (2020), *American Society of Agricultural and Biological Engineers* (2020), *Ecology Letters* (2020), *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2020), *Plant Physiology* (2020), *The Plant Journal* (2019, 2020), *Marine Biology* (2019), and *Molecular Ecology Resources* (2020).  
-- Guest Editor for *Molecular Ecology Resources* special issue (2020).  
+- Manuscript Reviewer for *Agronomy* (2020), *American Society of Agricultural and Biological Engineers* (2020), *Ecology Letters* (2020), *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2020), *Plant Physiology* (2020), *The Plant Journal* (2019, 2020), *Marine Biology* (2019), and *Molecular Ecology Resources* (2020)  
+- Guest Editor for *Molecular Ecology Resources* special issue (2020)  
 
 ## Regional 
-- Team coach for Arkansas AI-Campus 2020, a hands-on training program to provide skills in machine learning to students and professionals in AR.  
+- Team coach for Arkansas AI-Campus 2020, a hands-on training program to provide skills in machine learning to students and professionals in AR  
 
-- Member of the Scientific Program Committee for Arkansas Bioinformatic Consortium 2020 Meeting: Artificial Intelligence in Arkansas.   
+- Member of the Scientific Program Committee for Arkansas Bioinformatic Consortium 2020 Meeting: Artificial Intelligence in Arkansas   
 
-- Invited speaker for ~1hr session on Individual Development Plans for Graduate Student Professional Development workshop at the annual faculty and student Center for Advanced Surface Engineering (CASE) Retreat in Petit Jean, AR (Jan. 10).  Event attended by ~30 graduate students from five Arkansas institutions. 
+- Invited speaker for ~1hr session on Individual Development Plans for Graduate Student Professional Development workshop at the annual faculty and student Center for Advanced Surface Engineering (CASE) Retreat in Petit Jean, AR (Jan. 10).  Event attended by ~30 graduate students from five Arkansas institutions 
 
 ## Institutional  
 - Co-organizer of the [A-State R User Group](https://a-state-ruser.readthedocs.io/en/latest/) (2020 -- Present)  
 - Service on Advisory Committee for four Ph.D. students in the Molecular Biosciences program (J. Stubblefield, 2019 -- Present; J. Fowler, 2020 -- Present; L. Martin, 2020 -- Present; and B. Hale, 2020 -- Present)  
+- Service on Advisory Committee for one M.S. student in the Computer Sciences program (S. Singh, 2021 -- Present)
 
 <!-- # PROFESSIONAL DEVELOPMENT   -->
 <!-- ## Research  -->
