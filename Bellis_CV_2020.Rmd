@@ -55,7 +55,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 
 # PUBLICATIONS
 ## Peer-reviewed
-1. J. Masanga, B. N. Mwangi, W. Kibet, M. Wamalwa, P. Sagero, R. Oduor, M. Ngugi, A. Alakonya, P. Ojola, **E. Bellis**, S. Runo (2021). Physiological and ecological warnings that Dodder pose an exigent threat to farmlands in Eastern Africa. *Plant Physiology*.
+1. J. Masanga, B. N. Mwangi, W. Kibet, M. Wamalwa, P. Sagero, R. Oduor, M. Ngugi, A. Alakonya, P. Ojola, **E. Bellis**, S. Runo (2021). Physiological and ecological warnings that Dodder pose an exigent threat to farmlands in Eastern Africa. *Plant Physiology* 0: 1-11.
 
 1. J. Stubblefield, M. Hervert, J. Causey, J. Qualls, W. Dong, L. Cai, J. Fowler, **E. Bellis**, K. Walker, J.H. Moore, S. Nehring, X. Huang (2020). Cardiac or Infectious? Transfer Learning with Chest X-Rays for ER Patient Classification.  *Scientific Reports* 10: 20900.  
 
@@ -63,7 +63,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 
 2. L. Lopez, K. Turner, **E.S. Bellis**, & J.R. Lasky. (2020). Genomics of Natural History Collections for Understanding Evolution in the Wild. *Molecular Ecology Resources* 20: 1153-1160.
 
-3. J.S. Shaver, **E.S. Bellis**, C. Iwaki, J. Qualls, J. Randolph, & J. Smith. (Accepted). Massard Prairie Restoration and Soil Microbiome Succession. *Journal of the Arkansas Academy of Science.*
+3. J.S. Shaver, **E.S. Bellis**, C. Iwaki, J. Qualls, J. Randolph, & J. Smith. (2020). Massard Prairie Restoration and Soil Microbiome Succession. *Journal of the Arkansas Academy of Science.*
 
 4. M. Staton, C. Addo-Quaye, [and 29 others including **E.S. Bellis**]. (2020). A reference genome assembly and adaptive trait analysis of Castanea mollissima 'Vanuxem', a source of resistance to chestnut blight in restoration breeding. *Tree Genetics & Genomes* 16: 57. 
 
@@ -86,7 +86,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 ## Preprints/submitted 
 15. E.K.H. Ho\*, **E.S. Bellis,\* ** J. Calkins, J.R. Adrion, L.C. Latta IV, S. Schaack. Engines of change: Transposable element mutation rates are high and vary widely among genotypes and populations of *Daphnia magna. In review*. doi: https://doi.org/10.1101/2020.09.21.307181. \*co-first authors.
 
-15. **E.S. Bellis\* **, C.M. McLaughlin\*, C.W. dePamphilis, & J.R. Lasky. The geography of parasite local adaptation to host communities. *In review*. doi: https://10.22541/au.159985357.77273677. \*co-first authors.
+15. **E.S. Bellis\* **, C.M. McLaughlin\*, C.W. dePamphilis, & J.R. Lasky. The geography of parasite local adaptation to host communities. *In revision*. doi: https://10.22541/au.159985357.77273677. \*co-first authors.
 
 16. W. Zhou, **E. Bellis**, J. Stubblefield, J.L. Causey, J.A. Qualls, K. Walker, X. Huang (2019). Minor QTLs mining through the combination of GWAS and machine learning feature selection. doi: https://doi.org/10.1101/702761.
 
@@ -105,10 +105,12 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 ## Submitted/Pending
 >NSF EPSCoR RII Track-2: Artificial Intelligence for Plant Systems Science through EPSCoR AI-Campus (submitted; role: co-PI) \hfill{2021}
 
->NIH R35: Understanding the genotype-phenotype-environment nexus with ensemble learning ($1,378,720; submitted; role: PI) \hfill{2020}
+>Arkansas Biosciences Institute Seed Grant ($69,609; submitted; role: co-PI) \hfill{2021}
 
->NSF EPSCoR RII Track-2: Connecting Artificial Intelligence and Plant Biology to Understand Adaptation to Environment ($4,683,896; not funded; role: co-PI) 
-  \hfill{2020}
+<!-- >NIH R35: Understanding the genotype-phenotype-environment nexus with ensemble learning ($1,378,720; not funded; role: PI) \hfill{2020} -->
+
+<!-- >NSF EPSCoR RII Track-2: Connecting Artificial Intelligence and Plant Biology to Understand Adaptation to Environment ($4,683,896; not funded; role: co-PI)  -->
+<!--   \hfill{2020} -->
 
 # FELLOWSHIPS & AWARDS  
 ## National  
