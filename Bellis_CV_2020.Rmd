@@ -163,6 +163,8 @@ BI211: Principles of Biology Lab (Teaching Assistant)\hfill{Fall 2013}
 
 # STUDENT MENTORING 
 ## Arkansas State University
+D. Delgadillo, Undergraduate Researcher \hfill{May 2021--Present}
+S. McCormick, Undergraduate Researcher \hfill{May 2021--Present}
 A. Le'Flore, Undergraduate Researcher \hfill{Oct. 2020--Present}  
 A. Kronberger, Undergraduate Researcher (co-advised w/X. Huang) \hfill{Oct. 2020--Present}  
 E. Soriano Chavez, Undergraduate Researcher \hfill{May 2020--Present}   
@@ -197,7 +199,7 @@ J. Seng, Undergraduate Researcher \hfill{2011--2014}
 
 ## Institutional  
 - Co-organizer of the [A-State R User Group](https://a-state-ruser.readthedocs.io/en/latest/) (2020 -- Present)  
-- Service on Advisory Committee for four Ph.D. students in the Molecular Biosciences program (J. Stubblefield, 2019 -- Present; J. Fowler, 2020 -- Present; L. Martin, 2020 -- Present; and B. Hale, 2020 -- Present)  
+- Service on Advisory Committee for three Ph.D. students and one M.S. student in the Molecular Biosciences program (J. Stubblefield, 2019 -- 2021; J. Fowler, 2020 -- Present; L. Martin, 2020 -- 2021; and B. Hale, 2020 -- Present)  
 - Service on Advisory Committee for one M.S. student and one undergraduate honors student in the Computer Sciences program (S. Singh, 2021 -- Present; C. Seglem, 2021 -- Present)
 
 <!-- # PROFESSIONAL DEVELOPMENT   -->
