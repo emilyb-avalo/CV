@@ -103,7 +103,9 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 >Arkansas INBRE Core Facility Voucher Award ($5,000; role: PI) \hfill{2020}
 
 ## Submitted/Pending
->NSF EPSCoR RII Track-2: Artificial Intelligence for Plant Systems Science through EPSCoR AI-Campus (submitted; role: co-PI) \hfill{2021}
+>USDA NIFA AFRI: Quantifying Risk To Agroforestry From Hitchhiking Nonnative Species Via Global Trade Routes ($749,780; submitted; role: co-PI) \hfill{2021}
+
+>NSF EPSCoR RII Track-2: Artificial Intelligence for Plant Systems Science through EPSCoR AI-Campus ($5,076,668; submitted; role: co-PI) \hfill{2021}
 
 >Arkansas Biosciences Institute Seed Grant ($69,609; submitted; role: co-PI) \hfill{2021}
 
