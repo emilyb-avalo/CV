@@ -168,11 +168,14 @@ BI211: Principles of Biology Lab (Teaching Assistant)\hfill{Fall 2013}
 
 # STUDENT MENTORING 
 ## Arkansas State University
-D. Delgadillo, Undergraduate Researcher \hfill{May 2021--Present}
-S. McCormick, Undergraduate Researcher \hfill{May 2021--Present}
-A. Le'Flore, Undergraduate Researcher \hfill{Oct. 2020--May 2021}  
-A. Kronberger, Undergraduate Researcher (co-advised w/X. Huang) \hfill{Oct. 2020--Aug. 2021}  
-E. Soriano Chavez, Undergraduate Researcher \hfill{May 2020--Present}   
+N. Haydt, MBS Doctoral Student  
+  (co-advised w/L. Neuman-Lee)  \hfill {Aug. 2021--Present}   
+D. Delgadillo, Undergraduate Researcher \hfill{May 2021--Present}  
+S. McCormick, Undergraduate Researcher \hfill{May 2021--Present}  
+E. Soriano Chavez, Undergraduate Researcher \hfill{May 2020--Present}  
+A. Kronberger, Undergraduate Researcher  
+  (co-advised w/X. Huang) \hfill{Oct. 2020--Aug. 2021}   
+A. Le'Flore, Undergraduate Researcher \hfill{Oct. 2020--May 2021}   
 S. Rutledge, Undergraduate Researcher \hfill{Jan.--Aug. 2020}  
 
 ## The Pennsylvania State University  
@@ -196,7 +199,11 @@ J. Seng, Undergraduate Researcher \hfill{2011--2014}
 - Guest Editor for *Molecular Ecology Resources* special issue (2020)  
 
 ## Regional 
-- Team coach for Arkansas AI-Campus 2020, a hands-on training program to provide skills in machine learning to students and professionals in AR  
+- Led coding activity for 13 participants (age 12-15) in the Museum of Discovery Girls in STEM program (summer 2021)  
+
+- Led 'Spatial Data in R' session for Arkansas Summer Research Institute 2021  
+
+- Team coach for Arkansas AI-Campus, a hands-on training program to provide skills in machine learning to students and professionals in AR (2020, 2021)  
 
 - Member of the Scientific Program Committee for Arkansas Bioinformatic Consortium 2020 Meeting: Artificial Intelligence in Arkansas   
 
