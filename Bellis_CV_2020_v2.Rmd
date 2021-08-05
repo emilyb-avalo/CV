@@ -9,7 +9,7 @@ title: "CV"
 author: "Emily S. Bellis (n&eacute;e Weiss)"
 
 jobtitle: "Assistant Professor of Bioinformatics"
-department: "Arkansas Biosciences Institute & Department of Computer Science"
+department: "Department of Computer Science"
 address: "Arkansas State University, Jonesboro, AR"
 fontawesome: yes
 email: ebellis@astate.edu
@@ -55,7 +55,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 
 # PUBLICATIONS
 ## Peer-reviewed
-1. **E.S. Bellis\* **, C.M. McLaughlin\*, C.W. dePamphilis, & J.R. Lasky (in press). The geography of parasite local adaptation to host communities. *Ecography*. doi: https://10.22541/au.159985357.77273677. \*co-first authors.
+1. **E.S. Bellis\* **, C.M. McLaughlin\*, C.W. dePamphilis, & J.R. Lasky (in press). The geography of parasite local adaptation to host communities. *Ecography*. \*co-first authors.
 
 1. J. Masanga, B. N. Mwangi, W. Kibet, M. Wamalwa, P. Sagero, R. Oduor, M. Ngugi, A. Alakonya, P. Ojola, **E. Bellis**, S. Runo (2021). Physiological and ecological warnings that Dodder pose an exigent threat to farmlands in Eastern Africa. *Plant Physiology* 0: 1-11.
 
@@ -102,12 +102,14 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 
 >Arkansas INBRE Core Facility Voucher Award ($5,000; role: PI) \hfill{2020}
 
+>Arkansas Biosciences Institute Seed Grant ($69,609; role: co-PI) \hfill{2021}
+
 ## Submitted/Pending
 >USDA NIFA AFRI: Quantifying Risk To Agroforestry From Hitchhiking Nonnative Species Via Global Trade Routes ($749,780; submitted; role: co-PI) \hfill{2021}
 
 >NSF EPSCoR RII Track-2: Artificial Intelligence for Plant Systems Science through EPSCoR AI-Campus ($5,076,668; submitted; role: co-PI) \hfill{2021}
 
->Arkansas Biosciences Institute Seed Grant ($69,609; submitted; role: co-PI) \hfill{2021}
+>AR EPSCoR DART Seed Grant: LP: AgAdapt: An evolutionarily-informed algorithm for genomic prediction of crop performance in novel environments ($89,194; submitted; role: PI) \hfill{2021}
 
 <!-- >NIH R35: Understanding the genotype-phenotype-environment nexus with ensemble learning ($1,378,720; not funded; role: PI) \hfill{2020} -->
 
@@ -138,6 +140,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 >Texas A&M University President’s Endowed Scholarship, National Merit Recognition Award, Director's Excellence Award, and Non-Resident Tuition Waiver ($75,000) \hfill{2006}
 
 # INVITED TALKS  
+Loop Genomics Seminar Series, remote, May 26 \hfill{2021}  
 Penn State Center for Parasitic & Carnivorous Plants, remote, Aug. 20  \hfill{2020}  
 University of Memphis Earth Sciences Colloquium Series, Memphis, TN, April 17 (*cancelled due to COVID-19*) \hfill{2020}   
 University of Arkansas Fort Smith STEM Seminar, Fort Smith, AR, Feb. 14  \hfill{2020}  
@@ -167,8 +170,8 @@ BI211: Principles of Biology Lab (Teaching Assistant)\hfill{Fall 2013}
 ## Arkansas State University
 D. Delgadillo, Undergraduate Researcher \hfill{May 2021--Present}
 S. McCormick, Undergraduate Researcher \hfill{May 2021--Present}
-A. Le'Flore, Undergraduate Researcher \hfill{Oct. 2020--Present}  
-A. Kronberger, Undergraduate Researcher (co-advised w/X. Huang) \hfill{Oct. 2020--Present}  
+A. Le'Flore, Undergraduate Researcher \hfill{Oct. 2020--May 2021}  
+A. Kronberger, Undergraduate Researcher (co-advised w/X. Huang) \hfill{Oct. 2020--Aug. 2021}  
 E. Soriano Chavez, Undergraduate Researcher \hfill{May 2020--Present}   
 S. Rutledge, Undergraduate Researcher \hfill{Jan.--Aug. 2020}  
 
