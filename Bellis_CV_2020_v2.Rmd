@@ -55,7 +55,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 
 # PUBLICATIONS
 ## Peer-reviewed
-1. **E.S. Bellis\* **, C.M. McLaughlin\*, C.W. dePamphilis, & J.R. Lasky (in press). The geography of parasite local adaptation to host communities. *Ecography*. \*co-first authors.
+1. **E.S. Bellis\* **, C.M. McLaughlin\*, C.W. dePamphilis, & J.R. Lasky (2021). The geography of parasite local adaptation to host communities. *Ecography*. \*co-first authors.
 
 1. J. Masanga, B. N. Mwangi, W. Kibet, M. Wamalwa, P. Sagero, R. Oduor, M. Ngugi, A. Alakonya, P. Ojola, **E. Bellis**, S. Runo (2021). Physiological and ecological warnings that Dodder pose an exigent threat to farmlands in Eastern Africa. *Plant Physiology* 0: 1-11.
 
@@ -86,7 +86,11 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning i
 12. A. Emblem, S. Okkenhaug, **E.S. Weiss**, D.R. Denver, B.O. Karlsen, T. Moum, and S.D. Johansen (2014). Sea anemones possess dynamic mitogenome structures. *Molecular Phylogenetics and Evolution* 75: 184-193.  
 
 ## Preprints/submitted 
-16. E.K.H. Ho\*, **E.S. Bellis,\* ** J. Calkins, J.R. Adrion, L.C. Latta IV, S. Schaack. Engines of change: Transposable element mutation rates are high and vary widely among genotypes and populations of *Daphnia magna. In review*. doi: https://doi.org/10.1101/2020.09.21.307181. \*co-first authors.
+16. **E.S Bellis\* **, A.A. Hashem\*, J.L. Causey, B.R.K. Runkle, B. Moreno-García, B. Burns, V.S. Green, T.N. Burcham, M.L. Reba and X. Huang. Detecting intra-field variation in rice yield with UAV imagery and deep learning. *In review*.
+
+16. E.K.H. Ho\*, **E.S. Bellis\* **, J. Calkins, J.R. Adrion, L.C. Latta IV, S. Schaack. Engines of change: Transposable element mutation rates are high and vary widely among genotypes and populations of *Daphnia magna. In review*. doi: https://doi.org/10.1101/2020.09.21.307181. \*co-first authors.
+
+17. J. Masanga, R. Oduor, A. Alakonya, M. Ngugi, P. Ojola, **E.S. Bellis\* **, and Steven Runo\*. Comparative phylogeographic analysis of *Cuscuta campestris* and *C. reflexa* in Kenya: implications for management of highly invasive vines. *In revision. Plants, People, & Planet.* \*corresponding authors.
 
 16. W. Zhou, **E. Bellis**, J. Stubblefield, J.L. Causey, J.A. Qualls, K. Walker, X. Huang (2019). Minor QTLs mining through the combination of GWAS and machine learning feature selection. doi: https://doi.org/10.1101/702761.
 
