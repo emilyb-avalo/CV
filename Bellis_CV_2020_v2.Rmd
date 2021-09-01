@@ -9,7 +9,7 @@ title: "CV"
 author: "Emily S. Bellis (n&eacute;e Weiss)"
 
 jobtitle: "Assistant Professor of Bioinformatics"
-department: "Arkansas Biosciences Institute & Department of Computer Science"
+department: "Department of Computer Science"
 address: "Arkansas State University, Jonesboro, AR"
 fontawesome: yes
 email: ebellis@astate.edu
@@ -86,9 +86,11 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 12. A. Emblem, S. Okkenhaug, **E.S. Weiss**, D.R. Denver, B.O. Karlsen, T. Moum, and S.D. Johansen (2014). Sea anemones possess dynamic mitogenome structures. *Molecular Phylogenetics and Evolution* 75: 184-193.  
 
 ## Preprints/submitted 
-17. **E.S. Bellis\***, A.A. Hashem\*, J.L. Causey, B.R.K. Runkle, B. Moreno-Garcia, B. Burns, V.S. Green, T.N. Burcham, M.L. Reba, X. Huang. Detecting intra-field variation in rice yield with UAV imagery and deep learning. *In review*. \*co-first authors.    
+16. **E.S Bellis\* **, A.A. Hashem\*, J.L. Causey, B.R.K. Runkle, B. Moreno-García, B. Burns, V.S. Green, T.N. Burcham, M.L. Reba and X. Huang. Detecting intra-field variation in rice yield with UAV imagery and deep learning. *In review*.
 
-16. E.K.H. Ho\*, **E.S. Bellis,\* ** J. Calkins, J.R. Adrion, L.C. Latta IV, S. Schaack. Engines of change: Transposable element mutation rates are high and vary widely among genotypes and populations of *Daphnia magna. In review*. doi: https://doi.org/10.1101/2020.09.21.307181. \*co-first authors.
+16. E.K.H. Ho\*, **E.S. Bellis\* **, J. Calkins, J.R. Adrion, L.C. Latta IV, S. Schaack. Engines of change: Transposable element mutation rates are high and vary widely among genotypes and populations of *Daphnia magna. In review*. doi: https://doi.org/10.1101/2020.09.21.307181. \*co-first authors.
+
+17. J. Masanga, R. Oduor, A. Alakonya, M. Ngugi, P. Ojola, **E.S. Bellis\* **, and Steven Runo\*. Comparative phylogeographic analysis of *Cuscuta campestris* and *C. reflexa* in Kenya: implications for management of highly invasive vines. *In revision. Plants, People, & Planet.* \*corresponding authors.
 
 16. W. Zhou, **E. Bellis**, J. Stubblefield, J.L. Causey, J.A. Qualls, K. Walker, X. Huang (2019). Minor QTLs mining through the combination of GWAS and machine learning feature selection. doi: https://doi.org/10.1101/702761.
 
@@ -105,6 +107,8 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 >Arkansas INBRE Collaborative Research Grant: "Effect of Soil Microbiome Succession on the Prevalence of Antibiotic Resistance" ($51,446; role: PI) \hfill{2020}
 
 >Arkansas INBRE Core Facility Voucher Award ($5,000; role: PI) \hfill{2020}
+
+>Arkansas Biosciences Institute Seed Grant ($69,609; role: co-PI) \hfill{2021}
 
 ## Submitted/Pending
 >USDA NIFA AFRI: Quantifying Risk To Agroforestry From Hitchhiking Nonnative Species Via Global Trade Routes ($749,780; submitted; role: co-PI) \hfill{2021}
@@ -143,7 +147,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 # INVITED TALKS  
 International Parasitic Plant Society Seminar Series, remote, Dec. 1 \hfill{2021}  
-[Loop Genomics Webinar Series](https://www.loopgenomics.com/post/webinar-effect-of-tallgrass-prairie-restoration-and-soil-microbiome-succession-on-the-prevalence-of), remote, May 12 \hfill{2021}  
+[Loop Genomics Webinar Series](https://www.loopgenomics.com/post/webinar-effect-of-tallgrass-prairie-restoration-and-soil-microbiome-succession-on-the-prevalence-of), remote, May 12 \hfill{2021}    
 Penn State Center for Parasitic & Carnivorous Plants, remote, Aug. 20  \hfill{2020}  
 University of Memphis Earth Sciences Colloquium Series, Memphis, TN, April 17 (*cancelled due to COVID-19*) \hfill{2020}   
 University of Arkansas Fort Smith STEM Seminar, Fort Smith, AR, Feb. 14  \hfill{2020}  
@@ -171,11 +175,14 @@ BI211: Principles of Biology Lab (Teaching Assistant)\hfill{Fall 2013}
 
 # STUDENT MENTORING 
 ## Arkansas State University
+N. Haydt, MBS Doctoral Student  
+  (co-advised w/L. Neuman-Lee)  \hfill {Aug. 2021--Present}   
 D. Delgadillo, Undergraduate Researcher \hfill{May 2021--Present}  
 S. McCormick, Undergraduate Researcher \hfill{May 2021--Present}  
-A. Kronberger, Undergraduate Researcher (co-advised w/X. Huang) \hfill{Oct. 2020--Present}  
 E. Soriano Chavez, Undergraduate Researcher \hfill{May 2020--Present}  
-A. Le'Flore, Undergraduate Researcher \hfill{Oct. 2020--2021} 
+A. Kronberger, Undergraduate Researcher  
+  (co-advised w/X. Huang) \hfill{Oct. 2020--Aug. 2021}   
+A. Le'Flore, Undergraduate Researcher \hfill{Oct. 2020--May 2021}   
 S. Rutledge, Undergraduate Researcher \hfill{Jan.--Aug. 2020}  
 
 ## The Pennsylvania State University  
@@ -199,9 +206,11 @@ J. Seng, Undergraduate Researcher \hfill{2011--2014}
 - Guest Editor for *Molecular Ecology Resources* special issue (2020)  
 
 ## Regional 
-- Led Arkansas Summer Research Institute session on Spatial Data Science in R in 2021  
+- Led coding activity for 13 participants (age 12-15) in the Museum of Discovery Girls in STEM program (summer 2021)  
 
-- Team coach for Arkansas AI-Campus 2020, a hands-on training program to provide skills in machine learning to students and professionals in AR  
+- Led 'Spatial Data in R' session for Arkansas Summer Research Institute 2021  
+
+- Team coach for Arkansas AI-Campus, a hands-on training program to provide skills in machine learning to students and professionals in AR (2020, 2021)  
 
 - Member of the Scientific Program Committee for Arkansas Bioinformatic Consortium 2020 Meeting: Artificial Intelligence in Arkansas   
 
