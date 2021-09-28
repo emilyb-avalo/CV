@@ -115,7 +115,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 ## Submitted/Pending
 >NSF NRT-URoL: UandI-DEECoDE: Understanding Invasion and Disease Ecology and Evolution through Computational Data Education ($1,999,766; submitted; role: co-PI) \hfill{2021}
 
->USDA NIFA AFRI: Quantifying Risk To Agroforestry From Hitchhiking Nonnative Species Via Global Trade Routes ($749,780; submitted; role: co-PI) \hfill{2021}
+<!-- >USDA NIFA AFRI: Quantifying Risk To Agroforestry From Hitchhiking Nonnative Species Via Global Trade Routes ($749,780; not funded; role: co-PI) \hfill{2021} -->
 
 <!-- >NSF EPSCoR RII Track-2: Artificial Intelligence for Plant Systems Science through EPSCoR AI-Campus ($5,076,668; not funded; role: co-PI) \hfill{2021} -->
 
