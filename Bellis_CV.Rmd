@@ -102,11 +102,11 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 >Coral Reef Alliance Coral Adaptation Challenge Grant ($18,000; role: PI) \hfill{2016}
 
 ## Regional
->Arkansas NSF EPSCoR DART Seed Grant: AgAdapt: An evolutionarily-informed algorithm for genomic prediction of crop performance in novel environments ($89,194; role: PI) \hfill{2022-2023}
+>Arkansas NSF EPSCoR DART Seed Grant: AgAdapt: An evolutionarily-informed algorithm for genomic prediction of crop performance in novel environments ($89,296; role: PI) \hfill{2022-2023}
 
 >USDA Forest Service-Southern Research Station Joint Venture Agreement: Estimating invasive plant propagule pressure and modeled establishment risk to Southern agroforestry ($94,739; role: co-PI) \hfill{2021-2026}
 
->Arkansas Biosciences Institute Seed Grant ($69,609; role: co-PI) \hfill{2021-2023}
+>Arkansas Biosciences Institute Seed Grant: "Correlating environmental microbial diversity to prevalence and severity of an emerging vertebrate disease" ($69,609; role: co-PI) \hfill{2021-2023}
 
 >Arkansas INBRE Collaborative Research Grant: "Effect of Soil Microbiome Succession on the Prevalence of Antibiotic Resistance" ($51,446; role: PI) \hfill{2020}
 
@@ -115,9 +115,9 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 ## Submitted/Pending
 >NSF NRT-URoL: UandI-DEECoDE: Understanding Invasion and Disease Ecology and Evolution through Computational Data Education ($1,999,766; submitted; role: co-PI) \hfill{2021}
 
-<!-- >USDA NIFA AFRI: Quantifying Risk To Agroforestry From Hitchhiking Nonnative Species Via Global Trade Routes ($749,780; not funded; role: co-PI) \hfill{2021} -->
+>USDA NIFA AFRI: Quantifying Risk To Agroforestry From Hitchhiking Nonnative Species Via Global Trade Routes ($749,780; not funded; role: co-PI) \hfill{2021}
 
-<!-- >NSF EPSCoR RII Track-2: Artificial Intelligence for Plant Systems Science through EPSCoR AI-Campus ($5,076,668; not funded; role: co-PI) \hfill{2021} -->
+>NSF EPSCoR RII Track-2: Artificial Intelligence for Plant Systems Science through EPSCoR AI-Campus ($5,076,668; not funded; role: co-PI) \hfill{2021}
 
 <!-- >NIH R35: Understanding the genotype-phenotype-environment nexus with ensemble learning ($1,378,720; not funded; role: PI) \hfill{2020} -->
 
@@ -147,8 +147,11 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 >Texas A&M University President’s Endowed Scholarship, National Merit Recognition Award, Director's Excellence Award, and Non-Resident Tuition Waiver ($75,000) \hfill{2006}
 
-# INVITED TALKS  
+# INVITED TALKS
+Idaho State University, Pocatello, ID, Mar. 17 \hfill{2022}  
+University of Memphis Earth Sciences Colloquium Series, Memphis, TN
 International Parasitic Plant Society Seminar Series, remote, Dec. 1 \hfill{2021}  
+California State University, San Bernadino Biology Department Seminar Series, remote, Nov. 19 \hfill{2021}  
 [Loop Genomics Webinar Series](https://www.loopgenomics.com/post/webinar-effect-of-tallgrass-prairie-restoration-and-soil-microbiome-succession-on-the-prevalence-of), remote, May 12 \hfill{2021}    
 Penn State Center for Parasitic & Carnivorous Plants, remote, Aug. 20  \hfill{2020}  
 University of Memphis Earth Sciences Colloquium Series, Memphis, TN, April 17 (*cancelled due to COVID-19*) \hfill{2020}   
@@ -163,6 +166,7 @@ Coral Reef Alliance Adaptation Challenge Workshop, San Francisco, CA, April 17 \
 
 # COURSES TAUGHT 
 ## Arkansas State University  
+CS6823: Fundamentals of Machine Learning (cross-listed w/ MBS6251) \hfill {Spring 2022} 
 CS1114: Concepts of Programming (including Honors section) \hfill {Spring 2021}  
 CS6823: Special Topics: Introduction to Statistical Learning  
   (cross-listed w/ MBS6251) \hfill {Summer 2020}  
@@ -179,7 +183,8 @@ BI211: Principles of Biology Lab (Teaching Assistant)\hfill{Fall 2013}
 ## Arkansas State University
 N. Haydt, MBS Doctoral Student  
   (co-advised w/L. Neuman-Lee)  \hfill {Aug. 2021--Present}   
-D. Delgadillo, Undergraduate Researcher \hfill{May 2021--Present}  
+F. Farag, Undergraduate Researcher (co-advised w/A. Hashem) \hfill{Aug. 2021--Present}  
+D. Delgadillo, Undergraduate Researcher \hfill{May--Nov. 2021}  
 S. McCormick, Undergraduate Researcher \hfill{May 2021--Present}  
 E. Soriano Chavez, Undergraduate Researcher \hfill{May 2020--Present}  
 A. Kronberger, Undergraduate Researcher  
@@ -204,18 +209,14 @@ J. Seng, Undergraduate Researcher \hfill{2011--2014}
 - Facilitator for Bioinformatics Workshop at Kenyatta University, Kenya (delivered remotely due to COVID-19; 2020)  
 - Review Editor for *Frontiers in Plant Science*  (2020 -- Present)  
 - Panel Reviewer for the National Science Foundation (2020)  
-- Manuscript Reviewer for *Agronomy* (2020), *American Society of Agricultural and Biological Engineers* (2020), *Ecology Letters* (2020), *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2020, 2021), *Plant Physiology* (2020), *The Plant Journal* (2019, 2020), *Marine Biology* (2019), *Molecular Ecology Resources* (2020), *Nature Biotechnology* (2021)    
+- Manuscript Reviewer for *Agronomy* (2020), *American Society of Agricultural and Biological Engineers* (2020, 2021), *Ecology Letters* (2020), *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2020, 2021), *Plant Physiology* (2020), *The Plant Journal* (2019, 2020), *Marine Biology* (2019), *Molecular Ecology Resources* (2020), *Nature Biotechnology* (2021)    
 - Guest Editor for *Molecular Ecology Resources* special issue (2020)  
 
 ## Regional 
 - Led coding activity for 13 participants (age 12-15) in the Museum of Discovery Girls in STEM program (summer 2021)  
-
 - Led 'Spatial Data in R' session for Arkansas Summer Research Institute 2021  
-
 - Team coach for Arkansas AI-Campus, a hands-on training program to provide skills in machine learning to students and professionals in AR (2020, 2021)  
-
 - Member of the Scientific Program Committee for Arkansas Bioinformatic Consortium 2020 Meeting: Artificial Intelligence in Arkansas   
-
 - Invited speaker for ~1hr session on Individual Development Plans for Graduate Student Professional Development workshop at the annual faculty and student Center for Advanced Surface Engineering (CASE) Retreat in Petit Jean, AR (Jan. 10).  Event attended by ~30 graduate students from five Arkansas institutions 
 
 ## Institutional  
