@@ -94,6 +94,8 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 ## Preprints/submitted 
 18. **E.S. Bellis**, C.S. von Münchow, C.O. Odero, A. Kronberger^[A-State undergraduate mentee], E. Kelly, T. Xia^[Penn State undergraduate mentee], X. Huang, S. Wicke, S.M. Runo, C.W. dePamphilis, J.R. Lasky. Genomic signatures of host-specific selection in a parasitic plant. *submitted.*
 
+19. C. Yim^[Penn State undergraduate mentee] C, E.S. Bellis, V.L. DeLeo, D. Gamba, R. Muscarella, and J.R. Lasky (2022). Climate biogeography of Arabidopsis thaliana: linking distribution models, individual performance, and life history. *submitted.*
+
 16. W. Zhou, **E. Bellis**, J. Stubblefield, J.L. Causey, J.A. Qualls, K. Walker, X. Huang (2019). Minor QTLs mining through the combination of GWAS and machine learning feature selection. doi: https://doi.org/10.1101/702761.
 
 
