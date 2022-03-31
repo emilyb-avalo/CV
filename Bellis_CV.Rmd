@@ -101,7 +101,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 # RESEARCH GRANTS  
 ## National
->NSF NRT-URoL: UandI-DEECoDE: Understanding Invasion and Disease Ecology and Evolution through Computational Data Education ($1,999,484; role: co-PI) \hfill{2022-2026} 
+<!-- >NSF NRT-URoL: UandI-DEECoDE: Understanding Invasion and Disease Ecology and Evolution through Computational Data Education ($1,999,484; role: co-PI) \hfill{2022-2026}  -->
 
 >US-AID PEER Program Grant: Deploying *Striga* Smart Sorghum: The last mile ($75,000; PI: S.M. Runo; US-supported partner: Bellis)  \hfill{2020-2021}  
 
