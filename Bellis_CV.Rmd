@@ -194,8 +194,12 @@ BI211: Principles of Biology Lab (Teaching Assistant)\hfill{Fall 2013}
 # STUDENT MENTORING 
 ## Arkansas State University
 N. Haydt, MBS Doctoral Student  
-  (co-advised w/L. Neuman-Lee)  \hfill {Aug. 2021--Present}   
-F. Farag, Undergraduate Researcher (co-advised w/A. Hashem) \hfill{Aug. 2021--Present}  
+  (co-advised w/L. Neuman-Lee)  \hfill {Aug. 2021--Present}
+I. Hughes, Biology M.S. Student  
+  (co-advised w/T. Marsico)  \hfill {June 2021--Present} 
+Y. Wang, Undergraduate Researcher  \hfill {May 2021--Present}
+S. Tamang, Undergraduate Researcher  \hfill {April 2021--Present}
+F. Farag, Accelerated M.S. Student (co-advised w/A. Hashem) \hfill{Aug. 2021--Present}  
 D. Delgadillo, Undergraduate Researcher \hfill{May--Nov. 2021}  
 S. McCormick, Undergraduate Researcher \hfill{May 2021--Present}  
 E. Soriano Chavez, Undergraduate Researcher \hfill{May 2020--Present}  
@@ -236,6 +240,7 @@ J. Seng, Undergraduate Researcher \hfill{2011--2014}
 - MBS Admissions Committee (2021 -- Present)  
 - PhD Advisor for one Ph.D. student in the Molcular Biosciences Program (N. Haydt, 2021 -- Present)  
 - Service on Advisory Committee for three Ph.D. students and one M.S. student in the Molecular Biosciences program (J. Stubblefield, 2019 -- 2021; J. Fowler, 2020 -- Present; L. Martin, 2020 -- 2021; and B. Hale, 2020 -- Present)  
+- Service on Advisory Committee for one M.S. student in Biology (B. Kosnik, 2021 -- Present)
 - Service on Advisory Committee for one M.S. student and one undergraduate honors student in the Computer Sciences program (S. Singh, 2021 -- Present; C. Seglem, 2021 -- Present)
 
 <!-- # PROFESSIONAL DEVELOPMENT   -->
