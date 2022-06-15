@@ -55,13 +55,13 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 # PUBLICATIONS
 ## Peer-reviewed
-1. **E.S. Bellis\***, A.A. Hashem\*, J.L. Causey, B.R.K. Runkle, B. Moreno-García, B. Burns, V.S. Green, T.N. Burcham, M.L. Reba and X. Huang (accepted). Detecting intra-field variation in rice yield with UAV imagery and deep learning. *Frontiers in Plant Science*. \*co-first authors.
+1. **E.S. Bellis\***, A.A. Hashem\*, J.L. Causey, B.R.K. Runkle, B. Moreno-García, B. Burns, V.S. Green, T.N. Burcham, M.L. Reba and X. Huang (accepted). Detecting intra-field variation in rice yield with UAV imagery and deep learning. *Frontiers in Plant Science* 13: 716506.  \*co-first authors.
 
 1. **E.S. Bellis\***, C.M. McLaughlin\*, C.W. dePamphilis, & J.R. Lasky (2021). The geography of parasite local adaptation to host communities. *Ecography* 44: 1-13. \*co-first authors.  
 
-16. E.K.H. Ho\*, **E.S. Bellis\***, J. Calkins, J.R. Adrion, L.C. Latta IV, S. Schaack (2021). Engines of change: Transposable element mutation rates are high and vary widely among genotypes and populations of *Daphnia magna. PLoS Genetics.* \*co-first authors.
+16. E.K.H. Ho\*, **E.S. Bellis\***, J. Calkins, J.R. Adrion, L.C. Latta IV, S. Schaack (2021). Engines of change: Transposable element mutation rates are high and vary widely among genotypes and populations of *Daphnia magna. PLoS Genetics* 17: e1009827. \*co-first authors.
 
-17. J. Masanga, R. Oduor, A. Alakonya, M. Ngugi, P. Ojola, **E.S. Bellis\***, and Steven Runo\* (2021). Comparative phylogeographic analysis of *Cuscuta campestris* and *C. reflexa* in Kenya: implications for management of highly invasive vines. *Plants, People, & Planet.* \*corresponding authors.
+17. J. Masanga, R. Oduor, A. Alakonya, M. Ngugi, P. Ojola, **E.S. Bellis\***, and Steven Runo\* (2021). Comparative phylogeographic analysis of *Cuscuta campestris* and *C. reflexa* in Kenya: implications for management of highly invasive vines. *Plants, People, & Planet* 4: 182-193. \*corresponding authors.
 
 1. J. Masanga, B. N. Mwangi, W. Kibet, M. Wamalwa, P. Sagero, R. Oduor, M. Ngugi, A. Alakonya, P. Ojola, **E. Bellis\***, S. Runo\* (2021). Physiological and ecological warnings that Dodder pose an exigent threat to farmlands in Eastern Africa. *Plant Physiology* 0: 1-11. \*senior authors.
 
@@ -194,11 +194,11 @@ BI211: Principles of Biology Lab (Teaching Assistant)\hfill{Fall 2013}
 # STUDENT MENTORING 
 ## Arkansas State University
 N. Haydt, MBS Doctoral Student  
-  (co-advised w/L. Neuman-Lee)  \hfill {Aug. 2021--Present}
+  (co-advised w/L. Neuman-Lee)  \hfill {Aug. 2021--Present}  
 I. Hughes, Biology M.S. Student  
-  (co-advised w/T. Marsico)  \hfill {June 2021--Present} 
-Y. Wang, Undergraduate Researcher  \hfill {May 2021--Present}
-S. Tamang, Undergraduate Researcher  \hfill {April 2021--Present}
+  (co-advised w/T. Marsico)  \hfill {June 2021--Present}  
+Y. Wang, Undergraduate Researcher  \hfill {May 2021--Present}  
+S. Tamang, Undergraduate Researcher  \hfill {April 2021--Present}  
 F. Farag, Accelerated M.S. Student (co-advised w/A. Hashem) \hfill{Aug. 2021--Present}  
 D. Delgadillo, Undergraduate Researcher \hfill{May--Nov. 2021}  
 S. McCormick, Undergraduate Researcher \hfill{May 2021--Present}  
