@@ -92,16 +92,18 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 12. A. Emblem, S. Okkenhaug, **E.S. Weiss**, D.R. Denver, B.O. Karlsen, T. Moum, and S.D. Johansen (2014). Sea anemones possess dynamic mitogenome structures. *Molecular Phylogenetics and Evolution* 75: 184-193.  
 
 ## Preprints/submitted 
+19. **E.S. Bellis**, R.D. Lucardi, K. Saltonstall, T.D. Marsico. Predicting invasion risk of grasses under climate change requires improved genomic understanding of adaptive potential. *submitted.*
+
 18. **E.S. Bellis**, C.S. von Münchow, C.O. Odero, A. Kronberger^[A-State undergraduate mentee], E. Kelly, T. Xia^[Penn State undergraduate mentee], X. Huang, S. Wicke, S.M. Runo, C.W. dePamphilis, J.R. Lasky. Genomic signatures of host-specific selection in a parasitic plant. *submitted.*
 
-19. C. Yim^[Penn State undergraduate mentee], E.S. Bellis, V.L. DeLeo, D. Gamba, R. Muscarella, and J.R. Lasky (2022). Climate biogeography of Arabidopsis thaliana: linking distribution models, individual performance, and life history. *submitted.*
+19. C. Yim^[Penn State undergraduate mentee], **E.S. Bellis**, V.L. DeLeo, D. Gamba, R. Muscarella, and J.R. Lasky (2022). Climate biogeography of Arabidopsis thaliana: linking distribution models, individual performance, and life history. *submitted.*
 
 16. W. Zhou, **E. Bellis**, J. Stubblefield, J.L. Causey, J.A. Qualls, K. Walker, X. Huang (2019). Minor QTLs mining through the combination of GWAS and machine learning feature selection. doi: https://doi.org/10.1101/702761.
 
 
 # RESEARCH GRANTS  
 ## National
-<!-- >NSF NRT-URoL: UandI-DEECoDE: Understanding Invasion and Disease Ecology and Evolution through Computational Data Education ($1,999,484; role: co-PI) \hfill{2022-2026}  -->
+>NSF NRT-URoL: UandI-DEECoDE: Understanding Invasion and Disease Ecology and Evolution through Computational Data Education ($1,999,484; role: co-PI) \hfill{2022-2026}
 
 >US-AID PEER Program Grant: Deploying *Striga* Smart Sorghum: The last mile ($75,000; PI: S.M. Runo; US-supported partner: Bellis)  \hfill{2020-2021}  
 
@@ -119,13 +121,15 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 >Arkansas INBRE Core Facility Voucher Award ($5,000; role: PI) \hfill{2020}
 
 ## Submitted/Pending
->NSF BRC-BIO: The Coevolutionary Maintenance of Genomic Variation in Complex Systems ($499,635; submitted; role: PI) \hfill{2022}  
+<!-- >NSF BRC-BIO: The Coevolutionary Maintenance of Genomic Variation in Complex Systems ($499,635; submitted; role: PI) \hfill{2022}   -->
 
 >NSF MRI Track I Acquisition: Arkansas HPC-A Reconfigurable Computer System for Research and Acquisition ($699,762; submitted; role: co-PI) \hfill{2022}  
 
->NSF EPSCoR RII Track-2: Artificial Intelligence for Plant Systems Science through EPSCoR AI-Campus towards Industries of Tomorrow ($5,000,000; submitted; role: co-PI) \hfill{2022}
+>NSF EPSCoR RII Track-2: Artificial Intelligence for Plant Systems Science through EPSCoR AI-Campus towards Industries of Tomorrow ($5,000,000; submitted; role: co-PI) \hfill{2022}  
 
->USDA Forest Service Southern Research Station submission to Bipartisan Infrastructure Investment and Jobs Act: Early detection and rapid response to minimize risk from hitchhiking nonnative species via global trade routes ($3,141,849; A-State subaward: $1,868,106), PI: R. D. Lucardi, Co-PIs: **E. S. Bellis,** T. D. Marsico, K. Saltonstall, J. H. Leebens-Mack \hfill{2022}
+>US Fish & Wildlife Service: Preventing landscape-level invasion by employing early detection and rapid response of nonnative weed species hitchhiking via global trade routes ($1,056,990; PI: Travis Marsico, co-PIs: E. S. Bellis, Rima Lucardi, K. Saltonstall) \hfill{2022} 
+
+<!-- >USDA Forest Service Southern Research Station submission to Bipartisan Infrastructure Investment and Jobs Act: Early detection and rapid response to minimize risk from hitchhiking nonnative species via global trade routes ($3,141,849; A-State subaward: $1,868,106), PI: R. D. Lucardi, Co-PIs: **E. S. Bellis,** T. D. Marsico, K. Saltonstall, J. H. Leebens-Mack \hfill{2022} -->
 
 <!-- >USDA NIFA AFRI: Quantifying Risk To Agroforestry From Hitchhiking Nonnative Species Via Global Trade Routes ($749,780; not funded; role: co-PI) \hfill{2021} -->
 
@@ -160,6 +164,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 >Texas A&M University President’s Endowed Scholarship, National Merit Recognition Award, Director's Excellence Award, and Non-Resident Tuition Waiver ($75,000) \hfill{2006}
 
 # INVITED TALKS
+16th World Congress on Parasitic Plants, Nairobi, Kenya, July 7 (keynote) \hfill{2022} 
 Idaho State University, Pocatello, ID, Mar. 17 \hfill{2022}  
 University of Memphis Earth Sciences Colloquium Series, Memphis, TN
 International Parasitic Plant Society Seminar Series, remote, Dec. 1 \hfill{2021}  
