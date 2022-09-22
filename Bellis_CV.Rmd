@@ -55,7 +55,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 # PUBLICATIONS
 ## Peer-reviewed
-1. **E.S. Bellis\***, A.A. Hashem\*, J.L. Causey, B.R.K. Runkle, B. Moreno-García, B. Burns, V.S. Green, T.N. Burcham, M.L. Reba and X. Huang (accepted). Detecting intra-field variation in rice yield with UAV imagery and deep learning. *Frontiers in Plant Science* 13: 716506.  \*co-first authors.
+1. **E.S. Bellis\***, A.A. Hashem\*, J.L. Causey, B.R.K. Runkle, B. Moreno-García, B. Burns, V.S. Green, T.N. Burcham, M.L. Reba and X. Huang (2022). Detecting intra-field variation in rice yield with UAV imagery and deep learning. *Frontiers in Plant Science* 13: 716506.  \*co-first authors.
 
 1. **E.S. Bellis\***, C.M. McLaughlin\*, C.W. dePamphilis, & J.R. Lasky (2021). The geography of parasite local adaptation to host communities. *Ecography* 44: 1-13. \*co-first authors.  
 
@@ -123,9 +123,9 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 ## Submitted/Pending
 <!-- >NSF BRC-BIO: The Coevolutionary Maintenance of Genomic Variation in Complex Systems ($499,635; submitted; role: PI) \hfill{2022}   -->
 
->NSF MRI Track I Acquisition: Arkansas HPC-A Reconfigurable Computer System for Research and Acquisition ($699,762; submitted; role: co-PI) \hfill{2022}  
+<!-- >NSF MRI Track I Acquisition: Arkansas HPC-A Reconfigurable Computer System for Research and Acquisition ($699,762; submitted; role: co-PI) \hfill{2022}   -->
 
->NSF EPSCoR RII Track-2: Artificial Intelligence for Plant Systems Science through EPSCoR AI-Campus towards Industries of Tomorrow ($5,000,000; submitted; role: co-PI) \hfill{2022}  
+<!-- >NSF EPSCoR RII Track-2: Artificial Intelligence for Plant Systems Science through EPSCoR AI-Campus towards Industries of Tomorrow ($5,000,000; submitted; role: co-PI) \hfill{2022}   -->
 
 >US Fish & Wildlife Service: Preventing landscape-level invasion by employing early detection and rapid response of nonnative weed species hitchhiking via global trade routes ($1,056,990; PI: Travis Marsico, co-PIs: E. S. Bellis, Rima Lucardi, K. Saltonstall) \hfill{2022} 
 
@@ -152,7 +152,9 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 >National Merit Scholarship ($2,500) \hfill{2006}  
 
-## Institutional  
+## Regional  
+> Arkansas Biosciences Institute New Investigator of the Year \hfill{2022}  
+
 >Oregon State University Paul & Mary Roberts Fellowship for the Study of Evolution ($2,500) \hfill{2017}  
 
 >University of Washington Summer Institute Scholarship ($900) \hfill{2016}  
@@ -164,9 +166,9 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 >Texas A&M University President’s Endowed Scholarship, National Merit Recognition Award, Director's Excellence Award, and Non-Resident Tuition Waiver ($75,000) \hfill{2006}
 
 # INVITED TALKS
-16th World Congress on Parasitic Plants, Nairobi, Kenya, July 7 (keynote) \hfill{2022} 
+Boyce Thompson Institute PGS Annual Symposium, Ithaca, NY, Sep. 16 \hfill{2022}   
+16th World Congress on Parasitic Plants, Nairobi, Kenya, July 7 (keynote) \hfill{2022}  
 Idaho State University, Pocatello, ID, Mar. 17 \hfill{2022}  
-University of Memphis Earth Sciences Colloquium Series, Memphis, TN
 International Parasitic Plant Society Seminar Series, remote, Dec. 1 \hfill{2021}  
 California State University, San Bernadino Biology Department Seminar Series, remote, Nov. 19 \hfill{2021}  
 [Loop Genomics Webinar Series](https://www.loopgenomics.com/post/webinar-effect-of-tallgrass-prairie-restoration-and-soil-microbiome-succession-on-the-prevalence-of), remote, May 12 \hfill{2021}    
