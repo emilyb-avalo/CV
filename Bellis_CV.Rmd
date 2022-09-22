@@ -235,7 +235,7 @@ J. Seng, Undergraduate Researcher \hfill{2011--2014}
 
 ## Regional 
 - Led coding activity for 13 participants (age 12-15) in the Museum of Discovery Girls in STEM program (summer 2021)  
-- Led 'Spatial Data in R' session for Arkansas Summer Research Institute 2021  
+- Led 'Spatial Data in R' session for Arkansas Summer Research Institute 2021 and 'Intermediate Feature Selection' in 2022   
 - Team coach for Arkansas AI-Campus, a hands-on training program to provide skills in machine learning to students and professionals in AR (2020, 2021)  
 - Member of the Scientific Program Committee for Arkansas Bioinformatic Consortium 2020 Meeting: Artificial Intelligence in Arkansas   
 - Invited speaker for ~1hr session on Individual Development Plans for Graduate Student Professional Development workshop at the annual faculty and student Center for Advanced Surface Engineering (CASE) Retreat in Petit Jean, AR (Jan. 10).  Event attended by ~30 graduate students from five Arkansas institutions 
