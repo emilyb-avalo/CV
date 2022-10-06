@@ -55,6 +55,8 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 # PUBLICATIONS
 ## Peer-reviewed
+1. **E.S. Bellis**, R.D. Lucardi, K. Saltonstall, T.D. Marsico. Predicting invasion risk of grasses under climate change requires improved genomic understanding of adaptive potential. *American Journal of Botany.* accepted. 
+
 1. **E.S. Bellis\***, A.A. Hashem\*, J.L. Causey, B.R.K. Runkle, B. Moreno-García, B. Burns, V.S. Green, T.N. Burcham, M.L. Reba and X. Huang (2022). Detecting intra-field variation in rice yield with UAV imagery and deep learning. *Frontiers in Plant Science* 13: 716506.  \*co-first authors.
 
 1. **E.S. Bellis\***, C.M. McLaughlin\*, C.W. dePamphilis, & J.R. Lasky (2021). The geography of parasite local adaptation to host communities. *Ecography* 44: 1-13. \*co-first authors.  
@@ -92,8 +94,6 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 12. A. Emblem, S. Okkenhaug, **E.S. Weiss**, D.R. Denver, B.O. Karlsen, T. Moum, and S.D. Johansen (2014). Sea anemones possess dynamic mitogenome structures. *Molecular Phylogenetics and Evolution* 75: 184-193.  
 
 ## Preprints/submitted 
-19. **E.S. Bellis**, R.D. Lucardi, K. Saltonstall, T.D. Marsico. Predicting invasion risk of grasses under climate change requires improved genomic understanding of adaptive potential. *submitted.*
-
 18. **E.S. Bellis**, C.S. von Münchow, C.O. Odero, A. Kronberger^[A-State undergraduate mentee], E. Kelly, T. Xia^[Penn State undergraduate mentee], X. Huang, S. Wicke, S.M. Runo, C.W. dePamphilis, J.R. Lasky. Genomic signatures of host-specific selection in a parasitic plant. *submitted.*
 
 19. C. Yim^[Penn State undergraduate mentee], **E.S. Bellis**, V.L. DeLeo, D. Gamba, R. Muscarella, and J.R. Lasky (2022). Climate biogeography of Arabidopsis thaliana: linking distribution models, individual performance, and life history. *submitted.*
@@ -166,7 +166,8 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 >Texas A&M University President’s Endowed Scholarship, National Merit Recognition Award, Director's Excellence Award, and Non-Resident Tuition Waiver ($75,000) \hfill{2006}
 
 # INVITED TALKS
-Boyce Thompson Institute PGS Annual Symposium, Ithaca, NY, Sep. 16 \hfill{2022}   
+Boyce Thompson Institute PGS Annual Symposium, Ithaca, NY, Sep. 16 \hfill{2022} 
+
 16th World Congress on Parasitic Plants, Nairobi, Kenya, July 7 (keynote) \hfill{2022}  
 Idaho State University, Pocatello, ID, Mar. 17 \hfill{2022}  
 International Parasitic Plant Society Seminar Series, remote, Dec. 1 \hfill{2021}  
