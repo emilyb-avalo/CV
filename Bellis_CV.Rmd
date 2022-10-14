@@ -29,9 +29,9 @@ urlcolor: blue
 
 # EDUCATION
 
-*Oregon State University, Corvallis, OR*, Ph.D. Integrative Biology \hfill{2017}
+*Oregon State University, Corvallis, OR*, Ph.D., Integrative Biology \hfill{2017}
 
-*Texas A&M University, College Station, TX*, B.S. Genetics & Biochemistry \hfill 2010
+*Texas A&M University, College Station, TX*, B.S., Genetics & Biochemistry \hfill 2010
 
 # APPOINTMENTS
 
@@ -55,7 +55,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 # PUBLICATIONS
 ## Peer-reviewed
-1. **E.S. Bellis**, R.D. Lucardi, K. Saltonstall, T.D. Marsico. Predicting invasion risk of grasses under climate change requires improved genomic understanding of adaptive potential. *American Journal of Botany.* accepted. 
+1. **E.S. Bellis**, R.D. Lucardi, K. Saltonstall, T.D. Marsico. Predicting invasion risk of grasses under climate change requires improved genomic understanding of adaptive potential. *American Journal of Botany.* Accepted. 
 
 1. **E.S. Bellis\***, A.A. Hashem\*, J.L. Causey, B.R.K. Runkle, B. Moreno-García, B. Burns, V.S. Green, T.N. Burcham, M.L. Reba and X. Huang (2022). Detecting intra-field variation in rice yield with UAV imagery and deep learning. *Frontiers in Plant Science* 13: 716506.  \*co-first authors.
 
@@ -73,13 +73,13 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 1. J. Stubblefield, M. Hervert, J. Causey, J. Qualls, W. Dong, L. Cai, J. Fowler, **E. Bellis**, K. Walker, J.H. Moore, S. Nehring, X. Huang (2020). Cardiac or Infectious? Transfer Learning with Chest X-Rays for ER Patient Classification.  *Scientific Reports* 10: 20900.  
 
-1. R.D. Lucardi, **E.S. Bellis**, C.E. Cunard, J.K. Gravesande, S.C. Hughes, L.E. Whitehurst, S.J. Worthy, K.S. Burgess, T.D. Marsico. (2020). Seeds attached to refrigerated shipping containers represent a substantial risk of nonnative plant species introduction and establishment. *Scientific Reports* 10: 15017.
+1. R.D. Lucardi, **E.S. Bellis**, C.E. Cunard, J.K. Gravesande, S.C. Hughes, L.E. Whitehurst, S.J. Worthy, K.S. Burgess, T.D. Marsico (2020). Seeds attached to refrigerated shipping containers represent a substantial risk of nonnative plant species introduction and establishment. *Scientific Reports* 10: 15017.
 
-2. L. Lopez, K. Turner, **E.S. Bellis**, & J.R. Lasky. (2020). Genomics of natural history collections for understanding evolution in the wild. *Molecular Ecology Resources* 20: 1153-1160.
+2. L. Lopez, K. Turner, **E.S. Bellis**, & J.R. Lasky (2020). Genomics of natural history collections for understanding evolution in the wild. *Molecular Ecology Resources* 20: 1153-1160.
 
-3. J.S. Shaver, **E.S. Bellis**, C. Iwaki, J. Qualls, J. Randolph, & J. Smith. (2020). Massard prairie restoration and soil microbiome succession. *Journal of the Arkansas Academy of Science.*
+3. J.S. Shaver, **E.S. Bellis**, C. Iwaki, J. Qualls, J. Randolph, & J. Smith (2020). Massard prairie restoration and soil microbiome succession. *Journal of the Arkansas Academy of Science.*
 
-4. M. Staton, C. Addo-Quaye, [and 29 others including **E.S. Bellis**]. (2020). A reference genome assembly and adaptive trait analysis of *Castanea mollissima* 'Vanuxem', a source of resistance to chestnut blight in restoration breeding. *Tree Genetics & Genomes* 16: 57. 
+4. M. Staton, C. Addo-Quaye, [and 29 others including **E.S. Bellis**] (2020). A reference genome assembly and adaptive trait analysis of *Castanea mollissima* 'Vanuxem', a source of resistance to chestnut blight in restoration breeding. *Tree Genetics & Genomes* 16: 57. 
 
 7. L. Lopez, **E.S. Bellis**, E. Wafula, S. Hearne, L. Honaas, P. Ralph, N. Unachukwu, C.W. dePamphilis, and J.R. Lasky (2019). Transcriptomics of host-specific interactions in natural populations of the parasitic plant *Striga hermonthica. Weed Science* 67: 397-411.  
 
@@ -87,18 +87,16 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 9. **E.S. Bellis** and D. R. Denver (2017). Natural variation in responses to acute heat and cold stress in a sea anemone model system for coral bleaching. *Biological Bulletin* 233: 168-181. \**Cover article.*  
 
-10. **E.S. Bellis**, D.K. Howe, and D.R. Denver. Genome-wide polymorphism and signatures of selection in the symbiotic sea anemone *Aiptasia. BMC Genomics* 17: 160.
+10. **E.S. Bellis**, D.K. Howe, and D.R. Denver (2016). Genome-wide polymorphism and signatures of selection in the symbiotic sea anemone *Aiptasia. BMC Genomics* 17: 160.
 
 11. W.S. Phillips, A.L. Coleman-Hulbert, **E.S. Weiss**, D.K. Howe, S. Ping, R.I. Wernick, S. Estes, and D.R. Denver (2015). Selfish mitochondrial DNA proliferates in small, but not large, experimental populations of *Caenorhabditis briggsae. Genome Biology and Evolution* 7: 2023-2037.
 
 12. A. Emblem, S. Okkenhaug, **E.S. Weiss**, D.R. Denver, B.O. Karlsen, T. Moum, and S.D. Johansen (2014). Sea anemones possess dynamic mitogenome structures. *Molecular Phylogenetics and Evolution* 75: 184-193.  
 
 ## Preprints/submitted 
-18. **E.S. Bellis**, C.S. von Münchow, C.O. Odero, A. Kronberger^[A-State undergraduate mentee], E. Kelly, T. Xia^[Penn State undergraduate mentee], X. Huang, S. Wicke, S.M. Runo, C.W. dePamphilis, J.R. Lasky. Genomic signatures of host-specific selection in a parasitic plant. *submitted.*
+20. **E.S. Bellis**, C.S. von Münchow, C.O. Odero, A. Kronberger^[A-State undergraduate mentee], E. Kelly, T. Xia^[Penn State undergraduate mentee], X. Huang, S. Wicke, S.M. Runo, C.W. dePamphilis, J.R. Lasky. Genomic signatures of host-specific selection in a parasitic plant. *submitted.*
 
 19. C. Yim^[Penn State undergraduate mentee], **E.S. Bellis**, V.L. DeLeo, D. Gamba, R. Muscarella, and J.R. Lasky (2022). Climate biogeography of Arabidopsis thaliana: linking distribution models, individual performance, and life history. *submitted.*
-
-16. W. Zhou, **E. Bellis**, J. Stubblefield, J.L. Causey, J.A. Qualls, K. Walker, X. Huang (2019). Minor QTLs mining through the combination of GWAS and machine learning feature selection. doi: https://doi.org/10.1101/702761.
 
 
 # RESEARCH GRANTS  
@@ -165,31 +163,45 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 >Texas A&M University President’s Endowed Scholarship, National Merit Recognition Award, Director's Excellence Award, and Non-Resident Tuition Waiver ($75,000) \hfill{2006}
 
-# INVITED TALKS
+# INVITED TALKS  
+Missouri State University, Biology Seminar Series, Springfield, MO, Oct. 21 \hfill{2022} 
+
 Boyce Thompson Institute PGS Annual Symposium, Ithaca, NY, Sep. 16 \hfill{2022} 
 
 16th World Congress on Parasitic Plants, Nairobi, Kenya, July 7 (keynote) \hfill{2022}  
 Idaho State University, Pocatello, ID, Mar. 17 \hfill{2022}  
+
 International Parasitic Plant Society Seminar Series, remote, Dec. 1 \hfill{2021}  
+
 California State University, San Bernadino Biology Department Seminar Series, remote, Nov. 19 \hfill{2021}  
+
 [Loop Genomics Webinar Series](https://www.loopgenomics.com/post/webinar-effect-of-tallgrass-prairie-restoration-and-soil-microbiome-succession-on-the-prevalence-of), remote, May 12 \hfill{2021}    
+
 Penn State Center for Parasitic & Carnivorous Plants, remote, Aug. 20  \hfill{2020}  
-University of Memphis Earth Sciences Colloquium Series, Memphis, TN, April 17 (*cancelled due to COVID-19*) \hfill{2020}   
+
+University of Memphis Earth Sciences Colloquium Series, Memphis, TN, April 17 (*cancelled due to COVID-19*) \hfill{2020}  
+
 University of Arkansas Fort Smith STEM Seminar, Fort Smith, AR, Feb. 14  \hfill{2020}  
+
 The Pennsylvania State University Ecology Seminar, State College, PA , Sep. 13 \hfill{2019}  
+
 NSF Plant Genome Research Program Awardee Meeting, Washington D.C., Sep. 4 \hfill{2019} 
+
 Society of Herbarium Curators Annual Meeting, Tucson, AZ, Aug. 1 \hfill{2019}  
+
 University of Arkansas for Medical Sciences Career Day, Little Rock, AR, Oct. 18  \hfill{2019}  
+
 Workshop on Genomics Tools for *Striga* management, Nairobi, Kenya, June 22 \hfill{2018}  
+
 Reed College Biology Department Seminar Series, Oct. 27 \hfill{2017}  
+
 Coral Reef Alliance Adaptation Challenge Workshop, San Francisco, CA, April 17 \hfill{2017}  
 
 # COURSES TAUGHT 
 ## Arkansas State University  
-CS6823: Fundamentals of Machine Learning (cross-listed w/ MBS6251) \hfill {Spring 2022} 
-CS1114: Concepts of Programming (including Honors section) \hfill {Spring 2021}  
-CS6823: Special Topics: Introduction to Statistical Learning  
-  (cross-listed w/ MBS6251) \hfill {Summer 2020}  
+CS1094: Making Connections Computer Science (Fall 2022)  
+CS1114: Concepts of Programming (including Honors section; Spring 2021)  
+CS6823: Fundamentals of Machine Learning (cross-listed w/ MBS6251; Summer 2020, Spring 2022, Fall 2022)  
 
 ## Oregon State University 
 Z362: Invertebrate Biology Lab (Instructor) \hfill{Spring 2017}  
@@ -201,16 +213,17 @@ BI211: Principles of Biology Lab (Teaching Assistant)\hfill{Fall 2013}
 
 # STUDENT MENTORING 
 ## Arkansas State University
-N. Haydt, MBS Doctoral Student  
+N. Haydt, Molecular Biosciences Doctoral Student  
   (co-advised w/L. Neuman-Lee)  \hfill {Aug. 2021--Present}  
 I. Hughes, Biology M.S. Student  
-  (co-advised w/T. Marsico)  \hfill {June 2021--Present}  
-Y. Wang, Undergraduate Researcher  \hfill {May 2021--Present}  
-S. Tamang, Undergraduate Researcher  \hfill {April 2021--Present}  
-F. Farag, Accelerated M.S. Student (co-advised w/A. Hashem) \hfill{Aug. 2021--Present}  
-D. Delgadillo, Undergraduate Researcher \hfill{May--Nov. 2021}  
+  (co-advised w/T. Marsico)  \hfill {June 2022--Present}    
+F. Farag, Computer Science M.S. Student  
+  (co-advised w/A. Hashem) \hfill{Aug. 2021--Present}  
+Y. Wang, Undergraduate Researcher  \hfill {May 2022--Present}  
 S. McCormick, Undergraduate Researcher \hfill{May 2021--Present}  
 E. Soriano Chavez, Undergraduate Researcher \hfill{May 2020--Present}  
+S. Tamang, Undergraduate Researcher  \hfill {April--Oct. 2022}  
+D. Delgadillo, Undergraduate Researcher \hfill{May--Nov. 2021}  
 A. Kronberger, Undergraduate Researcher  
   (co-advised w/X. Huang) \hfill{Oct. 2020--Aug. 2021}   
 A. Le'Flore, Undergraduate Researcher \hfill{Oct. 2020--May 2021}   
@@ -224,12 +237,12 @@ C. Yim, Undergraduate Researcher \hfill{2018--2019}
 E. Kramer, Undergraduate Researcher \hfill{2016--2017}  
 R. Edlund, Undergraduate Researcher \hfill{2014--2016}  
 A. Vercruyssen, Undergraduate Researcher \hfill{2013--2014}  
-B. VerWey, Undergraduate Researcher \hfill{2013}  
 J. Seng, Undergraduate Researcher \hfill{2011--2014}  
+B. VerWey, Undergraduate Researcher \hfill{2013} 
 
 # PROFESSIONAL SERVICE (since 2018) 
 ## National/International
-- Program committee member for 2021 ACM Conference on Bioinformatics, Computational Biology, and Health Informatics  
+- Program committee member for 2021 and 2022 ACM Conference on Bioinformatics, Computational Biology, and Health Informatics  
 - Facilitator for Bioinformatics Workshop at Kenyatta University, Kenya (delivered remotely due to COVID-19; 2020)  
 - Review Editor for *Frontiers in Plant Science*  (2020 -- Present)  
 - Panel Reviewer for the National Science Foundation (2020)  
@@ -246,10 +259,9 @@ J. Seng, Undergraduate Researcher \hfill{2011--2014}
 ## Institutional  
 - Co-organizer of the [A-State R User Group](https://a-state-ruser.readthedocs.io/en/latest/) (2020 -- Present)  
 - MBS Admissions Committee (2021 -- Present)  
-- PhD Advisor for one Ph.D. student in the Molcular Biosciences Program (N. Haydt, 2021 -- Present)  
 - Service on Advisory Committee for three Ph.D. students and one M.S. student in the Molecular Biosciences program (J. Stubblefield, 2019 -- 2021; J. Fowler, 2020 -- Present; L. Martin, 2020 -- 2021; and B. Hale, 2020 -- Present)  
-- Service on Advisory Committee for one M.S. student in Biology (B. Kosnik, 2021 -- Present)
-- Service on Advisory Committee for one M.S. student and one undergraduate honors student in the Computer Sciences program (S. Singh, 2021 -- Present; C. Seglem, 2021 -- Present)
+- Service on Advisory Committee for one M.S. student in Biology (B. Kosnik, 2021 -- Present)  
+- Service on Advisory Committee for one M.S. student and one undergraduate honors student in the Computer Sciences program (S. Singh, 2021; C. Seglem, 2021 -- 2022)  
 
 <!-- # PROFESSIONAL DEVELOPMENT   -->
 <!-- ## Research  -->
