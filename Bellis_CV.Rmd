@@ -125,9 +125,9 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 <!-- >NSF EPSCoR RII Track-2: Artificial Intelligence for Plant Systems Science through EPSCoR AI-Campus towards Industries of Tomorrow ($5,000,000; submitted; role: co-PI) \hfill{2022}   -->
 
->US Fish & Wildlife Service: Preventing landscape-level invasion by employing early detection and rapid response of nonnative weed species hitchhiking via global trade routes ($1,056,990; PI: Travis Marsico, co-PIs: E. S. Bellis, Rima Lucardi, K. Saltonstall) \hfill{2022} 
+<!-- >US Fish & Wildlife Service: Preventing landscape-level invasion by employing early detection and rapid response of nonnative weed species hitchhiking via global trade routes ($1,056,990; not funded; PI: Travis Marsico, co-PIs: E. S. Bellis, Rima Lucardi, K. Saltonstall) \hfill{2022}  -->
 
-<!-- >USDA Forest Service Southern Research Station submission to Bipartisan Infrastructure Investment and Jobs Act: Early detection and rapid response to minimize risk from hitchhiking nonnative species via global trade routes ($3,141,849; A-State subaward: $1,868,106), PI: R. D. Lucardi, Co-PIs: **E. S. Bellis,** T. D. Marsico, K. Saltonstall, J. H. Leebens-Mack \hfill{2022} -->
+<!-- >USDA Forest Service Southern Research Station submission to Bipartisan Infrastructure Investment and Jobs Act: Early detection and rapid response to minimize risk from hitchhiking nonnative species via global trade routes ($3,141,849; A-State subaward: $1,868,106; not funded), PI: R. D. Lucardi, Co-PIs: **E. S. Bellis,** T. D. Marsico, K. Saltonstall, J. H. Leebens-Mack \hfill{2022} -->
 
 <!-- >USDA NIFA AFRI: Quantifying Risk To Agroforestry From Hitchhiking Nonnative Species Via Global Trade Routes ($749,780; not funded; role: co-PI) \hfill{2021} -->
 
