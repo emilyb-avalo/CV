@@ -119,6 +119,8 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 >Arkansas INBRE Core Facility Voucher Award ($5,000; role: PI) \hfill{2020}
 
 ## Submitted/Pending
+>USDA NIFA AFRI: Machine learning integration of multitemporal imagery and genomics to accelerate development of climate-smart rice ($297,976; submitted; role: PI) \hfill{2022}  
+
 <!-- >NSF BRC-BIO: The Coevolutionary Maintenance of Genomic Variation in Complex Systems ($499,635; submitted; role: PI) \hfill{2022}   -->
 
 <!-- >NSF MRI Track I Acquisition: Arkansas HPC-A Reconfigurable Computer System for Research and Acquisition ($699,762; submitted; role: co-PI) \hfill{2022}   -->
