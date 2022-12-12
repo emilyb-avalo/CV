@@ -51,7 +51,7 @@ urlcolor: blue
  > Postdoctoral Research Associate in Genomics \hfill{07/2017--12/2017}    
  
 # RESEARCH INTERESTS  
-Genomic basis of genotype-phenotype-environment interactions; machine learning and data science for biological and agriculatural systems; analysis of biological data with high spatiotemporal complexity    
+Genomic basis of genotype-phenotype-environment interactions; machine learning and data science for biological and agricultural systems; analysis of biological data with high spatiotemporal complexity    
 
 # PUBLICATIONS
 ## Peer-reviewed
@@ -94,9 +94,13 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 12. A. Emblem, S. Okkenhaug, **E.S. Weiss**, D.R. Denver, B.O. Karlsen, T. Moum, and S.D. Johansen (2014). Sea anemones possess dynamic mitogenome structures. *Molecular Phylogenetics and Evolution* 75: 184-193.  
 
 ## Preprints/submitted 
-20. **E.S. Bellis**, C.S. von Münchow, C.O. Odero, A. Kronberger^[A-State undergraduate mentee], E. Kelly, T. Xia^[Penn State undergraduate mentee], X. Huang, S. Wicke, S.M. Runo, C.W. dePamphilis, J.R. Lasky. Genomic signatures of host-specific selection in a parasitic plant. *submitted.*
+20. S. Mutinda, F.M. Maati, B. Hale, O. Dayou, E. Ateka, A. Wijeratne, S. Wicke, **E.S. Bellis**, S.M. Runo. Resolving intergenotypic *Striga* resistance in sorghum.  *submitted.* 
 
-19. C. Yim^[Penn State undergraduate mentee], **E.S. Bellis**, V.L. DeLeo, D. Gamba, R. Muscarella, and J.R. Lasky (2022). Climate biogeography of Arabidopsis thaliana: linking distribution models, individual performance, and life history. *submitted.*
+20. I. Gilles, S. Mutinda, F. Mobegi, B. Hale, G. Omwenga, A. Wijeratne, S. Wicke, **E.S. Bellis**, and S.M. Runo. A transcriptome atlas of *Striga hermonthica* germination. *submitted.*
+
+20. **E.S. Bellis**, C.S. von Münchow, C.O. Odero, A. Kronberger^[A-State undergraduate mentee], E. Kelly, T. Xia^[Penn State undergraduate mentee], X. Huang, S. Wicke, S.M. Runo, C.W. dePamphilis, J.R. Lasky. Genomic signatures of host-specific selection in a parasitic plant. *bioRxiv.*
+
+19. C. Yim^[Penn State undergraduate mentee], **E.S. Bellis**, V.L. DeLeo, D. Gamba, R. Muscarella, and J.R. Lasky. Climate biogeography of Arabidopsis thaliana: linking distribution models, individual performance, and life history. *submitted.*
 
 
 # RESEARCH GRANTS  
@@ -153,7 +157,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 >National Merit Scholarship ($2,500) \hfill{2006}  
 
 ## Regional  
-> Arkansas Biosciences Institute New Investigator of the Year \hfill{2022}  
+> Arkansas Biosciences Institute New Investigator of the Year [(press)](https://aaes.uada.edu/news/emily-bellis-abi-researcher/) \hfill{2022}  
 
 >Oregon State University Paul & Mary Roberts Fellowship for the Study of Evolution ($2,500) \hfill{2017}  
 
@@ -166,6 +170,8 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 >Texas A&M University President’s Endowed Scholarship, National Merit Recognition Award, Director's Excellence Award, and Non-Resident Tuition Waiver ($75,000) \hfill{2006}
 
 # INVITED TALKS  
+University of Arkansas, Entomology and Plant Pathology Seminar Series, Fayetteville, AR, Jan. 24 \hfill{2023}  
+
 Missouri State University, Biology Seminar Series, Springfield, MO, Oct. 21 \hfill{2022} 
 
 Boyce Thompson Institute PGS Annual Symposium, Ithaca, NY, Sep. 16 \hfill{2022} 
@@ -204,7 +210,8 @@ Coral Reef Alliance Adaptation Challenge Workshop, San Francisco, CA, April 17 \
 ## Arkansas State University  
 CS1094: Making Connections Computer Science (Fall 2022)  
 CS1114: Concepts of Programming (including Honors section; Spring 2021)  
-CS6823: Fundamentals of Machine Learning (cross-listed w/ MBS6251; Summer 2020, Spring 2022, Fall 2022)  
+CS6823: Fundamentals of Machine Learning (cross-listed w/ MBS6251; Summer 2020, Spring 2022, Fall 2022, Spring 2023)   
+DATA2004: Programming for Data Analytics (Spring 2023)  
 
 ## Oregon State University 
 Z362: Invertebrate Biology Lab (Instructor) \hfill{Spring 2017}  
@@ -248,7 +255,7 @@ B. VerWey, Undergraduate Researcher \hfill{2013}
 - Program committee member for 2021 and 2022 ACM Conference on Bioinformatics, Computational Biology, and Health Informatics  
 - Facilitator for Bioinformatics Workshop at Kenyatta University, Kenya (delivered remotely due to COVID-19; 2020)  
 - Review Editor for *Frontiers in Plant Science*  (2020 -- Present)  
-- Panel Reviewer for the National Science Foundation (2020)  
+- Panel Reviewer for the National Science Foundation (2020) and the Natural Sciences and Engineering Research Council of Canada (2022)     
 - Manuscript Reviewer for *Agronomy* (2020), *American Society of Agricultural and Biological Engineers* (2020, 2021), *Ecology Letters* (2020), *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2020, 2021), *Plant Physiology* (2020), *The Plant Journal* (2019, 2020), *Marine Biology* (2019), *Molecular Ecology Resources* (2020), *Nature Biotechnology* (2021, 2022)    
 - Guest Editor for *Molecular Ecology Resources* special issue (2020)  
 
@@ -262,7 +269,7 @@ B. VerWey, Undergraduate Researcher \hfill{2013}
 ## Institutional  
 - Co-organizer of the [A-State R User Group](https://a-state-ruser.readthedocs.io/en/latest/) (2020 -- Present)  
 - MBS Admissions Committee (2021 -- Present)  
-- Service on Advisory Committee for three Ph.D. students and one M.S. student in the Molecular Biosciences program (J. Stubblefield, 2019 -- 2021; J. Fowler, 2020 -- Present; L. Martin, 2020 -- 2021; and B. Hale, 2020 -- Present)  
+- Service on Advisory Committee for three Ph.D. students and one M.S. student in the Molecular Biosciences program (J. Stubblefield, 2019 -- 2021; J. Fowler, 2020 -- 2023; L. Martin, 2020 -- 2021; and B. Hale, 2020 -- Present)  
 - Service on Advisory Committee for one M.S. student in Biology (B. Kosnik, 2021 -- Present)  
 - Service on Advisory Committee for one M.S. student and one undergraduate honors student in the Computer Sciences program (S. Singh, 2021; C. Seglem, 2021 -- 2022)  
 
