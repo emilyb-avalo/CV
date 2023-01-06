@@ -94,6 +94,8 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 12. A. Emblem, S. Okkenhaug, **E.S. Weiss**, D.R. Denver, B.O. Karlsen, T. Moum, and S.D. Johansen (2014). Sea anemones possess dynamic mitogenome structures. *Molecular Phylogenetics and Evolution* 75: 184-193.  
 
 ## Preprints/submitted 
+20. Interdisciplinary Plant Science Consortium (60 authors incl. **E.S. Bellis**). Inclusive collaboration across plant physiology and genomics: Now is the Time! *submitted.*  
+
 20. S. Mutinda, F.M. Maati, B. Hale, O. Dayou, E. Ateka, A. Wijeratne, S. Wicke, **E.S. Bellis**, S.M. Runo. Resolving intergenotypic *Striga* resistance in sorghum.  *submitted.* 
 
 20. I. Gilles, S. Mutinda, F. Mobegi, B. Hale, G. Omwenga, A. Wijeratne, S. Wicke, **E.S. Bellis**, and S.M. Runo. A transcriptome atlas of *Striga hermonthica* germination. *submitted.*
@@ -256,7 +258,7 @@ B. VerWey, Undergraduate Researcher \hfill{2013}
 - Facilitator for Bioinformatics Workshop at Kenyatta University, Kenya (delivered remotely due to COVID-19; 2020)  
 - Review Editor for *Frontiers in Plant Science*  (2020 -- Present)  
 - Panel Reviewer for the National Science Foundation (2020) and the Natural Sciences and Engineering Research Council of Canada (2022)     
-- Manuscript Reviewer for *Agronomy* (2020), *American Society of Agricultural and Biological Engineers* (2020, 2021), *Ecology Letters* (2020), *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2020, 2021), *Plant Physiology* (2020), *The Plant Journal* (2019, 2020), *Marine Biology* (2019), *Molecular Ecology Resources* (2020), *Nature Biotechnology* (2021, 2022)    
+- Manuscript Reviewer for *Agronomy* (2020), *American Society of Agricultural and Biological Engineers* (2020, 2021), *AoB Plants* (2022); *Ecology Letters* (2020), *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2020, 2021), *Plant Physiology* (2020), *The Plant Journal* (2019, 2020), *Marine Biology* (2019), *Molecular Ecology Resources* (2020), *Nature Biotechnology* (2021, 2022)    
 - Guest Editor for *Molecular Ecology Resources* special issue (2020)  
 
 ## Regional 
