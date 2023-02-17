@@ -94,6 +94,8 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 12. A. Emblem, S. Okkenhaug, **E.S. Weiss**, D.R. Denver, B.O. Karlsen, T. Moum, and S.D. Johansen (2014). Sea anemones possess dynamic mitogenome structures. *Molecular Phylogenetics and Evolution* 75: 184-193.  
 
 ## Preprints/submitted 
+20. S. Mutinda, M. Jamil, J.Y. Wang, L. Berqdar, E. Ateka, **E.S. Bellis**, S. Al-Babili, S. Runo. Harnessing the strigolactone biosynthesis mutant *lgs1* to combat food insecurity in Africa. *submitted.*
+
 20. Interdisciplinary Plant Science Consortium (60 authors incl. **E.S. Bellis**). Inclusive collaboration across plant physiology and genomics: Now is the Time! *submitted.*  
 
 20. S. Mutinda, F.M. Maati, B. Hale, O. Dayou, E. Ateka, A. Wijeratne, S. Wicke, **E.S. Bellis**, S.M. Runo. Resolving intergenotypic *Striga* resistance in sorghum.  *submitted.* 
