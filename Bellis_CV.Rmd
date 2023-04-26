@@ -55,7 +55,9 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 # PUBLICATIONS
 ## Peer-reviewed
-1. **E.S. Bellis**, R.D. Lucardi, K. Saltonstall, T.D. Marsico. Predicting invasion risk of grasses under climate change requires improved genomic understanding of adaptive potential. *American Journal of Botany.* Accepted. 
+1. I. Gilles, S. Mutinda, F. Mobegi, B. Hale, G. Omwenga, A. Wijeratne, S. Wicke, **E.S. Bellis**, and S.M. Runo. A transcriptome atlas of *Striga hermonthica* germination:  Implications for managing an intractable parasitic plant. *Plants, People, Planet*. Accepted.  
+
+1. **E.S. Bellis**, R.D. Lucardi, K. Saltonstall, T.D. Marsico (2022). Predicting invasion risk of grasses under climate change requires improved genomic understanding of adaptive potential. *American Journal of Botany* 109: 1965-1968. 
 
 1. **E.S. Bellis\***, A.A. Hashem\*, J.L. Causey, B.R.K. Runkle, B. Moreno-García, B. Burns, V.S. Green, T.N. Burcham, M.L. Reba and X. Huang (2022). Detecting intra-field variation in rice yield with UAV imagery and deep learning. *Frontiers in Plant Science* 13: 716506.  \*co-first authors.
 
@@ -99,8 +101,6 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 20. Interdisciplinary Plant Science Consortium (60 authors incl. **E.S. Bellis**). Inclusive collaboration across plant physiology and genomics: Now is the Time! *submitted.*  
 
 20. S. Mutinda, F.M. Maati, B. Hale, O. Dayou, E. Ateka, A. Wijeratne, S. Wicke, **E.S. Bellis**, S.M. Runo. Resolving intergenotypic *Striga* resistance in sorghum.  *submitted.* 
-
-20. I. Gilles, S. Mutinda, F. Mobegi, B. Hale, G. Omwenga, A. Wijeratne, S. Wicke, **E.S. Bellis**, and S.M. Runo. A transcriptome atlas of *Striga hermonthica* germination. *submitted.*
 
 20. **E.S. Bellis**, C.S. von Münchow, C.O. Odero, A. Kronberger^[A-State undergraduate mentee], E. Kelly, T. Xia^[Penn State undergraduate mentee], X. Huang, S. Wicke, S.M. Runo, C.W. dePamphilis, J.R. Lasky. Genomic signatures of host-specific selection in a parasitic plant. *bioRxiv.*
 
@@ -174,6 +174,8 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 >Texas A&M University President’s Endowed Scholarship, National Merit Recognition Award, Director's Excellence Award, and Non-Resident Tuition Waiver ($75,000) \hfill{2006}
 
 # INVITED TALKS  
+Oklahoma State University, Plant Biology, Ecology, and Evolution Seminar Series, Stillwater, OK, April 4 \hfill{2023} 
+
 University of Arkansas, Entomology and Plant Pathology Seminar Series, Fayetteville, AR, Jan. 24 \hfill{2023}  
 
 Missouri State University, Biology Seminar Series, Springfield, MO, Oct. 21 \hfill{2022} 
@@ -258,6 +260,7 @@ B. VerWey, Undergraduate Researcher \hfill{2013}
 ## National/International
 - Program committee member for 2021 and 2022 ACM Conference on Bioinformatics, Computational Biology, and Health Informatics  
 - Facilitator for Bioinformatics Workshop at Kenyatta University, Kenya (delivered remotely due to COVID-19; 2020)  
+- Service on advisory committee for one Ph.D. Student at Pan African University (S. Mutinda)  
 - Review Editor for *Frontiers in Plant Science*  (2020 -- Present)  
 - Panel Reviewer for the National Science Foundation (2020) and the Natural Sciences and Engineering Research Council of Canada (2022)     
 - Manuscript Reviewer for *Agronomy* (2020), *American Society of Agricultural and Biological Engineers* (2020, 2021), *AoB Plants* (2022); *Ecology Letters* (2020), *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2020, 2021), *Plant Physiology* (2020), *The Plant Journal* (2019, 2020), *Marine Biology* (2019), *Molecular Ecology Resources* (2020), *Nature Biotechnology* (2021, 2022)    
@@ -271,8 +274,8 @@ B. VerWey, Undergraduate Researcher \hfill{2013}
 - Invited speaker for ~1hr session on Individual Development Plans for Graduate Student Professional Development workshop at the annual faculty and student Center for Advanced Surface Engineering (CASE) Retreat in Petit Jean, AR (Jan. 10).  Event attended by ~30 graduate students from five Arkansas institutions 
 
 ## Institutional  
-- Co-organizer of the [A-State R User Group](https://a-state-ruser.readthedocs.io/en/latest/) (2020 -- Present)  
-- MBS Admissions Committee (2021 -- Present)  
+- Co-organizer of the [A-State R User Group](https://a-state-ruser.readthedocs.io/en/latest/) (2020 -- 2022)  
+- MBS Admissions Committee (2021 -- 2022)  
 - Service on Advisory Committee for three Ph.D. students and one M.S. student in the Molecular Biosciences program (J. Stubblefield, 2019 -- 2021; J. Fowler, 2020 -- 2023; L. Martin, 2020 -- 2021; and B. Hale, 2020 -- Present)  
 - Service on Advisory Committee for one M.S. student in Biology (B. Kosnik, 2021 -- Present)  
 - Service on Advisory Committee for one M.S. student and one undergraduate honors student in the Computer Sciences program (S. Singh, 2021; C. Seglem, 2021 -- 2022)  
