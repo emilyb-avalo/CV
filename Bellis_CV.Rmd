@@ -173,6 +173,8 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 >Texas A&M University President’s Endowed Scholarship, National Merit Recognition Award, Director's Excellence Award, and Non-Resident Tuition Waiver ($75,000) \hfill{2006}
 
 # INVITED TALKS  
+Arkansas State University, UandI-DEECoDE Summer Institute, Jonesboro, AR, Aug. 15-16 \hfill{2023}
+
 Oklahoma State University, Plant Biology, Ecology, and Evolution Seminar Series, Stillwater, OK, April 4 \hfill{2023} 
 
 University of Arkansas, Entomology and Plant Pathology Seminar Series, Fayetteville, AR, Jan. 24 \hfill{2023}  
@@ -262,7 +264,7 @@ B. VerWey, Undergraduate Researcher \hfill{2013}
 - Service on advisory committee for one Ph.D. Student at Pan African University (S. Mutinda)  
 - Review Editor for *Frontiers in Plant Science*  (2020 -- Present)  
 - Panel Reviewer for the National Science Foundation (2020) and the Natural Sciences and Engineering Research Council of Canada (2022)     
-- Manuscript Reviewer for *Agronomy* (2020), *American Society of Agricultural and Biological Engineers* (2020, 2021), *AoB Plants* (2022); *Ecology Letters* (2020), *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2020, 2021), *Plant Physiology* (2020), *The Plant Journal* (2019, 2020), *Marine Biology* (2019), *Molecular Ecology Resources* (2020), *Nature Biotechnology* (2021, 2022)    
+- Manuscript Reviewer for *Agronomy* (2020), *American Society of Agricultural and Biological Engineers* (2020, 2021), *AoB Plants* (2022); *Ecology Letters* (2020), *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2020, 2021), *Plant Communications* (2023), *Plant Physiology* (2020), *The Plant Journal* (2019, 2020), *Marine Biology* (2019), *Molecular Ecology Resources* (2020), *Nature Biotechnology* (2021, 2022)    
 - Guest Editor for *Molecular Ecology Resources* special issue (2020)  
 
 ## Regional 
