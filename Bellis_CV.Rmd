@@ -39,7 +39,7 @@ urlcolor: blue
 
  > Associate Director, Center for No-Boundary Thinking \hfill{01/2020--05/2023}
  > Division Lead, CNBT Division of Biological Systems \hfill{01/2020--05/2023}  
- > Asst. Professor of Bioinformatics, Dept. of Computer Science \hfill{01/2020--05/2023}   
+ > Asst. Professor of Bioinformatics, Dept. of Computer \newline \hspace*{10mm} Science \hfill{01/2020--05/2023}   
  > Research Assistant Professor of Bioinformatics \hfill{10/2019--01/2020}  
  
 *The Pennsylvania State University, State College, PA:*  
@@ -55,7 +55,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 # PUBLICATIONS
 ## Peer-reviewed
-1. I. Gilles, S. Mutinda, F. Mobegi, B. Hale, G. Omwenga, A. Wijeratne, S. Wicke, **E.S. Bellis**, and S.M. Runo. A transcriptome atlas of *Striga hermonthica* germination:  Implications for managing an intractable parasitic plant. *Plants, People, Planet*. Accepted.  
+1. I. Gilles, S. Mutinda, F. Mobegi, B. Hale, G. Omwenga, A. Wijeratne, S. Wicke, **E.S. Bellis**, and S.M. Runo (2023). A transcriptome atlas of *Striga hermonthica* germination:  Implications for managing an intractable parasitic plant. *Plants, People, Planet*. 3: 1-15.  
 
 1. **E.S. Bellis**, R.D. Lucardi, K. Saltonstall, T.D. Marsico (2022). Predicting invasion risk of grasses under climate change requires improved genomic understanding of adaptive potential. *American Journal of Botany* 109: 1965-1968. 
 
@@ -111,7 +111,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 ## National
 >USDA NIFA AFRI: Machine learning integration of multitemporal imagery and genomics to accelerate development of climate-smart rice ($297,976; role: PI [changed to co-PI on taking new position at Avalo]) \hfill{2023}  
 
->NSF NRT-URoL: UandI-DEECoDE: Understanding Invasion and Disease Ecology and Evolution through Computational Data Education ($1,999,484; role: co-PI) \hfill{2022-2026}
+>NSF NRT-URoL: UandI-DEECoDE: Understanding Invasion and Disease Ecology and Evolution through Computational Data Education ($1,999,484; role: co-PI [stepped down on taking new position at Avalo]) \hfill{2022-2026}
 
 >US-AID PEER Program Grant: Deploying *Striga* Smart Sorghum: The last mile ($75,000; PI: S.M. Runo; US-supported partner: Bellis)  \hfill{2020-2021}  
 
