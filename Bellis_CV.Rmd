@@ -61,6 +61,8 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 1. S. Mutinda, F.M. Mobegi, B. Hale, O. Dayou, E. Ateka, A. Wijeratne, S. Wicke, **E.S. Bellis**, S.M. Runo. Resolving intergenotypic *Striga* resistance in sorghum.  *Journal of Experimental Botany*. 74: 5294-5306. 
 
+20. Interdisciplinary Plant Science Consortium (60 authors incl. **E.S. Bellis**). Inclusive collaboration across plant physiology and genomics: Now is the Time! *Plant Direct*. 7: e493.  
+
 1. I. Gilles, S. Mutinda, F. Mobegi, B. Hale, G. Omwenga, A. Wijeratne, S. Wicke, **E.S. Bellis**, and S.M. Runo (2023). A transcriptome atlas of *Striga hermonthica* germination:  Implications for managing an intractable parasitic plant. *Plants, People, Planet*. 3: 1-15.  
 
 1. **E.S. Bellis**, R.D. Lucardi, K. Saltonstall, T.D. Marsico (2022). Predicting invasion risk of grasses under climate change requires improved genomic understanding of adaptive potential. *American Journal of Botany* 109: 1965-1968. 
@@ -103,9 +105,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 
 ## Preprints/submitted 
-20. Interdisciplinary Plant Science Consortium (60 authors incl. **E.S. Bellis**). Inclusive collaboration across plant physiology and genomics: Now is the Time! *submitted.*  
-
-20. **E.S. Bellis**, C.S. von Münchow, C.O. Odero, A. Kronberger^[A-State undergraduate mentee], E. Kelly, T. Xia^[Penn State undergraduate mentee], X. Huang, S. Wicke, S.M. Runo, C.W. dePamphilis, J.R. Lasky. Genomic signatures of host-specific selection in a parasitic plant. *bioRxiv.*
+25. **E.S. Bellis**, C.S. von Münchow, C.O. Odero, A. Kronberger^[A-State undergraduate mentee], E. Kelly, T. Xia^[Penn State undergraduate mentee], X. Huang, S. Wicke, S.M. Runo, C.W. dePamphilis, J.R. Lasky. Genomic signatures of host-specific selection in a parasitic plant. *bioRxiv.*
 
 # RESEARCH GRANTS  
 ## National
