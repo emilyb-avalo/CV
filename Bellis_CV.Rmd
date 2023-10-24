@@ -55,6 +55,12 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 # PUBLICATIONS
 ## Peer-reviewed
+1. C. Yim^[Penn State undergraduate mentee], **E.S. Bellis**, V.L. DeLeo, D. Gamba, R. Muscarella, and J.R. Lasky (2023). Climate biogeography of Arabidopsis thaliana: linking distribution models and individual variation. *Journal of Biogeography.* 00: 1-15. 
+
+1. S. Mutinda, M. Jamil, J.Y. Wang, L. Berqdar, E. Ateka, **E.S. Bellis**, S. Al-Babili, S. Runo (2023). Strigolactone biosynthesis *lgs1* mutant alleles mined from the sorghum accession panel are a promising resource of resistance to witchweed (*Striga*) parasitism. *Plants, People, Planet*. 
+
+1. S. Mutinda, F.M. Mobegi, B. Hale, O. Dayou, E. Ateka, A. Wijeratne, S. Wicke, **E.S. Bellis**, S.M. Runo. Resolving intergenotypic *Striga* resistance in sorghum.  *Journal of Experimental Botany*. 74: 5294-5306. 
+
 1. I. Gilles, S. Mutinda, F. Mobegi, B. Hale, G. Omwenga, A. Wijeratne, S. Wicke, **E.S. Bellis**, and S.M. Runo (2023). A transcriptome atlas of *Striga hermonthica* germination:  Implications for managing an intractable parasitic plant. *Plants, People, Planet*. 3: 1-15.  
 
 1. **E.S. Bellis**, R.D. Lucardi, K. Saltonstall, T.D. Marsico (2022). Predicting invasion risk of grasses under climate change requires improved genomic understanding of adaptive potential. *American Journal of Botany* 109: 1965-1968. 
@@ -93,19 +99,13 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 11. W.S. Phillips, A.L. Coleman-Hulbert, **E.S. Weiss**, D.K. Howe, S. Ping, R.I. Wernick, S. Estes, and D.R. Denver (2015). Selfish mitochondrial DNA proliferates in small, but not large, experimental populations of *Caenorhabditis briggsae. Genome Biology and Evolution* 7: 2023-2037.
 
-12. A. Emblem, S. Okkenhaug, **E.S. Weiss**, D.R. Denver, B.O. Karlsen, T. Moum, and S.D. Johansen (2014). Sea anemones possess dynamic mitogenome structures. *Molecular Phylogenetics and Evolution* 75: 184-193.  
+12. A. Emblem, S. Okkenhaug, **E.S. Weiss**, D.R. Denver, B.O. Karlsen, T. Moum, and S.D. Johansen (2014). Sea anemones possess dynamic mitogenome structures. *Molecular Phylogenetics and Evolution* 75: 184-193. 
+
 
 ## Preprints/submitted 
-21. S. Mutinda, M. Jamil, J.Y. Wang, L. Berqdar, E. Ateka, **E.S. Bellis**, S. Al-Babili, S. Runo. Harnessing the strigolactone biosynthesis mutant *lgs1* to combat food insecurity in Africa. *submitted.*
-
 20. Interdisciplinary Plant Science Consortium (60 authors incl. **E.S. Bellis**). Inclusive collaboration across plant physiology and genomics: Now is the Time! *submitted.*  
 
-20. S. Mutinda, F.M. Maati, B. Hale, O. Dayou, E. Ateka, A. Wijeratne, S. Wicke, **E.S. Bellis**, S.M. Runo. Resolving intergenotypic *Striga* resistance in sorghum.  *submitted.* 
-
 20. **E.S. Bellis**, C.S. von Münchow, C.O. Odero, A. Kronberger^[A-State undergraduate mentee], E. Kelly, T. Xia^[Penn State undergraduate mentee], X. Huang, S. Wicke, S.M. Runo, C.W. dePamphilis, J.R. Lasky. Genomic signatures of host-specific selection in a parasitic plant. *bioRxiv.*
-
-19. C. Yim^[Penn State undergraduate mentee], **E.S. Bellis**, V.L. DeLeo, D. Gamba, R. Muscarella, and J.R. Lasky. Climate biogeography of Arabidopsis thaliana: linking distribution models, individual performance, and life history. *submitted.*
-
 
 # RESEARCH GRANTS  
 ## National
@@ -173,7 +173,9 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 >Texas A&M University President’s Endowed Scholarship, National Merit Recognition Award, Director's Excellence Award, and Non-Resident Tuition Waiver ($75,000) \hfill{2006}
 
 # INVITED TALKS  
-Arkansas State University, UandI-DEECoDE Summer Institute, Jonesboro, AR, Aug. 15-16 \hfill{2023}
+North Carolina State University International Plant Breeding Seminar, Raleigh, NC, Oct. 12 \hfill{2023} 
+
+Arkansas State University, UandI-DEECoDE Summer Institute, Jonesboro, AR, Aug. 15-16 \hfill{2023}  
 
 Oklahoma State University, Plant Biology, Ecology, and Evolution Seminar Series, Stillwater, OK, April 4 \hfill{2023} 
 
