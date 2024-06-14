@@ -33,7 +33,10 @@ urlcolor: blue
 
 *Texas A&M University, College Station, TX*, B.S., Genetics & Biochemistry \hfill 2010
 
-# APPOINTMENTS
+# Experience
+*Avalo, Durham, NC:*
+
+ > Computational Biology Lead \hfill{05/2023--Present}
 
 *Arkansas State University, Jonesboro, AR:*
 
@@ -55,6 +58,8 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 # PUBLICATIONS
 ## Peer-reviewed
+1. D.K. Roy, D.L. Leslie, M.L. Reba, A.A. Hashem, **E.S. Bellis**, and J. Nowlin (2024). Optimizing the quantity of recharge water into a sedimentary aquifer through infiltration galleries using a surrogate assisted coupled simulation–optimization approach. *Journal of Hydrology*. 635: 131183.
+
 1. C. Yim^[Penn State undergraduate mentee], **E.S. Bellis**, V.L. DeLeo, D. Gamba, R. Muscarella, and J.R. Lasky (2023). Climate biogeography of Arabidopsis thaliana: linking distribution models and individual variation. *Journal of Biogeography.* 00: 1-15. 
 
 1. S. Mutinda, M. Jamil, J.Y. Wang, L. Berqdar, E. Ateka, **E.S. Bellis**, S. Al-Babili, S. Runo (2023). Strigolactone biosynthesis *lgs1* mutant alleles mined from the sorghum accession panel are a promising resource of resistance to witchweed (*Striga*) parasitism. *Plants, People, Planet*. 
@@ -106,6 +111,9 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 ## Preprints/submitted 
 25. **E.S. Bellis**, C.S. von Münchow, C.O. Odero, A. Kronberger^[A-State undergraduate mentee], E. Kelly, T. Xia^[Penn State undergraduate mentee], X. Huang, S. Wicke, S.M. Runo, C.W. dePamphilis, J.R. Lasky. Genomic signatures of host-specific selection in a parasitic plant. *bioRxiv.*
+
+# PATENTS
+E.S. Bellis and M.F. Alvarez. 2024. System and Method for Gene-Environment Analysis. U.S. Patent Application No. 63/562,130, filed March 6, 2024. Patent pending.
 
 # RESEARCH GRANTS  
 ## National
@@ -173,6 +181,8 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 >Texas A&M University President’s Endowed Scholarship, National Merit Recognition Award, Director's Excellence Award, and Non-Resident Tuition Waiver ($75,000) \hfill{2006}
 
 # INVITED TALKS  
+UC Davis Plant Biology Seminar, Davis, CA, Oct. 27 \hfill{2023}
+
 North Carolina State University International Plant Breeding Seminar, Raleigh, NC, Oct. 12 \hfill{2023} 
 
 Arkansas State University, UandI-DEECoDE Summer Institute, Jonesboro, AR, Aug. 15-16 \hfill{2023}  
