@@ -58,9 +58,13 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 # PUBLICATIONS
 ## Peer-reviewed
+1. F. Farag, T.D. Huggins, J.D. Edwards, A.M. McClung, J.L. Causey, A.A. Hashem, and **E.S. Bellis** (2024). Manifold and spatiotemporal learning on multispectral unoccupied aerial system imagery for phenotype prediction. *The Plant Phenome Journal*. 7: e70006.
+
+1. J.D. Washburn et al. (incl. **E.S. Bellis**, Y. Wang^[A-State undergraduate mentee], and E. Soriano Chavez^[A-State undergraduate mentee])(2024). Global genotype by environment prediction competition reveals that diverse modeling strategies can deliver satisfactory maize yield estimates. *Genetics*. iyae195.
+
 1. D.K. Roy, D.L. Leslie, M.L. Reba, A.A. Hashem, **E.S. Bellis**, and J. Nowlin (2024). Optimizing the quantity of recharge water into a sedimentary aquifer through infiltration galleries using a surrogate assisted coupled simulation–optimization approach. *Journal of Hydrology*. 635: 131183.
 
-1. C. Yim^[Penn State undergraduate mentee], **E.S. Bellis**, V.L. DeLeo, D. Gamba, R. Muscarella, and J.R. Lasky (2023). Climate biogeography of Arabidopsis thaliana: linking distribution models and individual variation. *Journal of Biogeography.* 00: 1-15. 
+1. C. Yim^[Penn State undergraduate mentee], **E.S. Bellis**, V.L. DeLeo, D. Gamba, R. Muscarella, and J.R. Lasky (2023). Climate biogeography of *Arabidopsis thaliana*: Linking distribution models and individual variation. *Journal of Biogeography.* 00: 1-15. 
 
 1. S. Mutinda, M. Jamil, J.Y. Wang, L. Berqdar, E. Ateka, **E.S. Bellis**, S. Al-Babili, S. Runo (2023). Strigolactone biosynthesis *lgs1* mutant alleles mined from the sorghum accession panel are a promising resource of resistance to witchweed (*Striga*) parasitism. *Plants, People, Planet*. 
 
@@ -110,7 +114,7 @@ Genomic basis of genotype-phenotype-environment interactions; machine learning a
 
 
 ## Preprints/submitted 
-25. **E.S. Bellis**, C.S. von Münchow, C.O. Odero, A. Kronberger^[A-State undergraduate mentee], E. Kelly, T. Xia^[Penn State undergraduate mentee], X. Huang, S. Wicke, S.M. Runo, C.W. dePamphilis, J.R. Lasky. Genomic signatures of host-specific selection in a parasitic plant. *bioRxiv.*
+28. **E.S. Bellis**, C.S. von Münchow, C.O. Odero, A. Kronberger^[A-State undergraduate mentee], E. Kelly, T. Xia^[Penn State undergraduate mentee], X. Huang, S. Wicke, S.M. Runo, C.W. dePamphilis, J.R. Lasky. Genomic signatures of host-specific selection in a parasitic plant. *bioRxiv.*
 
 # PATENTS
 E.S. Bellis and M.F. Alvarez. 2024. System and Method for Gene-Environment Analysis. U.S. Patent Application No. 63/562,130, filed March 6, 2024. Patent pending.
