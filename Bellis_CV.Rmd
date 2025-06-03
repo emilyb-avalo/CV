@@ -184,7 +184,13 @@ E.S. Bellis and M.F. Alvarez. 2024. System and Method for Gene-Environment Analy
 
 >Texas A&M University President’s Endowed Scholarship, National Merit Recognition Award, Director's Excellence Award, and Non-Resident Tuition Waiver ($75,000) \hfill{2006}
 
-# INVITED TALKS  
+# INVITED TALKS
+AWS Climate Tech Demo Night, New York, NY, June 2 \hfill{2025}
+
+HudsonAlpha Workshop at PAG 32: Leveraging Low Coverage Whole Genome Sequencing for Crop Improvement, San Diego, CA, Jan. 13 \hfill{2025} 
+
+NC State College of Agriculture and Life Sciences Emerging Research Showcase, Durham, NC, Nov. 6 \hfill{2024}
+
 UC Davis Plant Biology Seminar, Davis, CA, Oct. 27 \hfill{2023}
 
 North Carolina State University International Plant Breeding Seminar, Raleigh, NC, Oct. 12 \hfill{2023} 
